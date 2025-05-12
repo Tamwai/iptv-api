@@ -55,7 +55,7 @@ NHK World Japan,NHK World Japan (1080p)
 NHKWorld,NHK World Japan,NHK World Japan (1080p)
 NHK東京総合,東京総合
 美亚电影台(HK),美亞電影,美亞電影臺
-中天亚洲台,中天亞洲臺,中天亞洲
+中天亚洲台,中天亞洲臺,中天亞洲,中天亚洲
 无线新闻台,无线新闻,无线卫星新闻台
 TVB翡翠台,TVB翡翠
 TVB翡翠,TVB翡翠台
