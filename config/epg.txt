@@ -13,4 +13,5 @@ http://epg.51zmt.top:8000/difang.xml
 https://epg.pw/xmltv/epg.xml
 https://epg.112114.xyz/pp.xml
 https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml
-
+https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml
+https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.gz
