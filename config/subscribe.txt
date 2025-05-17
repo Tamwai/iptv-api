@@ -25,6 +25,8 @@ https://gitee.com/jin-xueling/lingl/raw/master/hu.txt
 https://fel.forxhr.top:2022/down.php/f284e4942e45d20edccca6846b54c61a.txt
 https://jihulab.com/-/snippets/5265/raw/main/.txt
 https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/webview.m3u
 
 #已失效
 #https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
