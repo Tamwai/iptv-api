@@ -5,3 +5,13 @@ http://epg.51zmt.top:8000/e.xml
 https://e.erw.cc/e.xml
 https://raw.githubusercontent.com/fanmingming/live/main/e.xml
 https://assets.livednow.com/epg.xml
+
+
+#下面是自己加的
+https://epg.zsdc.eu.org/t.xml
+http://epg.51zmt.top:8000/difang.xml
+https://epg.pw/xmltv/epg.xml
+https://epg.112114.xyz/pp.xml
+https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml
+https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.xml
+https://github.com/mytv-android/myEPG/raw/refs/heads/master/output/epg.gz
