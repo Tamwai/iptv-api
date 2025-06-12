@@ -51,3 +51,49 @@ CGTN英语,CGTN英语新闻
 CGTN俄语,CGTN俄罗斯语
 
 广东珠江,GDTV-2,珠江,珠江频道,珠江台,广东珠江高清,珠江高清
+
+#以下是自己加的
+
+Fuji TV,Fuji TV (544p)
+J Sports 1,J Sports 1 (544p)
+Arirang,Arirang 阿里郎
+Love Nature 4K,Love Nature,Love Nature 4K,Love Nature 4K「自然」,Love Nature 4K (2160p),Love Nature,LoveNature,Love_Nature_4K
+Loupe 4K,Loupe,Loupe 4K,Loupe 4K「视觉」,Loupe 4K (2160p),Loupe,Loupe_4K,Loupe 4K (2160p)
+Deluxe Lounge,Deluxe Lounge HD,Deluxe Lounge HD「自然」,Deluxe Lounge (1080p),DeluxeLounge
+Red Bull TV,Red Bull,Red Bull TV,Red Bull TV「体育」,Red Bull TV (1080p),RedBull
+Taiwan Plus TV,Taiwan Plus TV (1080p),Taiwan Plus,TaiwanPlus,Tanwei+
+Fashion TV,Fashion,Fashion 4K,Fashion_4K,Fashion TV UHD,Fashion TV UHD (2160p)
+FashionTV Europe,FashionTV Europe (1080p)
+
+
+
+寰宇新聞台,寰宇新闻台,环宇新闻,环宇新闻台,寰宇新聞
+東森新聞,东森新闻
+东森新闻,東森新聞
+台視新聞,台视新闻
+台视新闻,台視新聞
+華視,华视
+华视,華視
+緯來體育,纬来体育
+纬来体育,緯來體育
+緯來日本,纬来日本
+纬来日本,緯來日本
+緯來育乐,纬来育乐
+纬来育乐,緯來育乐
+半岛新闻,半岛新闻 (1080p),半島新聞
+
+Deluxe Dance,Deluxe Dance (1080p)
+Deluxe Rap,Deluxe Rap (1080p)
+NHK World Premium,NHK World Premium (720p) [Not 24/7]
+NHK World Japan,NHK World Japan (1080p)
+凤凰中文,鳳凰衛視·中文「限UA」,鳳凰衛視中文,凤凰卫视中文台
+NHKWorld,NHK World Japan,NHK World Japan (1080p)
+NHK東京総合,東京総合
+美亚电影台(HK),美亞電影,美亞電影臺
+中天亚洲台,中天亞洲臺,中天亞洲,中天亚洲
+无线新闻台,无线新闻,无线卫星新闻台
+TVB翡翠台,TVB翡翠
+TVB翡翠,TVB翡翠台
+TVBPLUS,TVB+
+三立新聞,SET News (三立新聞)
+
