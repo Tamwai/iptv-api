@@ -50,6 +50,8 @@ https://raw.githubusercontent.com/lalifeier/IPTV/refs/heads/main/txt/Hot.txt
 https://github.com/lalifeier/IPTV/raw/refs/heads/main/txt/live/SpecialLine.txt
 https://github.com/lalifeier/IPTV/raw/refs/heads/main/txt/Sport.txt
 
+https://github.com/lalifeier/IPTV/raw/refs/heads/main/txt/tw.txt
+https://github.com/lalifeier/IPTV/raw/refs/heads/main/m3u/MyTV.m3u
 
 
 #已失效
