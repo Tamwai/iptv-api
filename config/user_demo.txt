@@ -1988,6 +1988,22 @@ Fashion 4K
 CCTV4K
 CCTV16-4K
 CCTV8K
+Classic Arts Showcase 4K
+百事通4K电影
+百事通4K纪实
+百事通4K儿童
+北京4K超清
+南国都市4K
+广东综艺4K
+河南卫视4K
+4K电影
+中录动漫4K
+亲子趣学4K
+津津悦读4K
+军情观察4K
+绚影4K
+乐享4K
+
 
 
 
@@ -2007,7 +2023,6 @@ Discovery
 航拍中国第二季
 
 春晚,#genre#
-春晚2025
 春晚2024
 春晚2023
 春晚22
@@ -2018,6 +2033,7 @@ Discovery
 春晚17
 春晚16
 春晚15
+春晚14
 春晚13
 春晚12
 春晚11
@@ -2025,8 +2041,10 @@ Discovery
 春晚09
 春晚08
 春晚07
+春晚06
 春晚05
 春晚04
+春晚03
 春晚02
 春晚01
 春晚00
@@ -2039,10 +2057,13 @@ Discovery
 春晚93
 春晚92
 春晚91
+春晚90
 春晚89
 春晚88
 春晚87
 春晚86
+春晚85
+春晚84
 春晚83
 
 
@@ -2053,15 +2074,6 @@ BBC
 Fox新闻
 VOA美国之音
 法国时尚
-东映チャンネル
-日本映画専门チャンネル
-テレビ朝日
-NHK World
-日テレNEWS24
-日本テレビ
-NHK_BS1
-NHK教育
-NHK総合
 新加坡国际
 CNA
 CNA新闻
@@ -2079,3 +2091,144 @@ Al Jazeera English
 NHK World-Japan
 ABC News Australia
 BAND NEWS
+
+
+日本,#genre#
+BSアニマックス
+BSテレ東
+GAORA SPORT
+J SPORTS 1
+J SPORTS 2
+J SPORTS 3
+J SPORTS 4
+LaLaTV
+NHK BS
+NHK World
+NHK_BS1
+NHK教育
+NHK総合
+WOWOWシネマ
+WOWOWプライム
+WOWOWライブ
+キッズステーション
+ゴルフネットワーク
+スーパー!ドラマTV
+スカイA
+スターチャンネル1
+スターチャンネル2
+スターチャンネル3
+チャンネル銀河
+テレビ朝日
+テレビ東京
+ファミリー劇場
+フジテレビ
+ホームドラマチャンネル
+ムービープラス
+釣りビジョン
+东映チャンネル
+東映チャンネル
+歌謡ポップスチャンネル
+日テレNEWS24
+日テレジータス
+日本テレビ
+日本映画専门チャンネル
+日本映画専門チャンネル
+時代劇専門チャンネル
+囲碁·将棋チャンネル
+映画･チャンネルNECO
+
+
+韩国,#genre#
+Arirang 阿里郎
+BBS 불교 방송
+CJ OnStyle
+CJ OnStyle Plus
+CTS 基督教기독교TV
+EBS 1
+EBS 2
+EBS 키즈
+EBS+ 1
+EBS+ 2
+GS Shop
+Gugak TV
+Job Plus TV
+KBC SBS 综艺
+KBS 1
+KBS 2
+KBS Drama
+KBS Joy
+KBS Kids
+KBS LIFE
+KBS LiveCam DokDo
+KBS Story
+KBS World
+KCTV 광주
+Korea TV
+MBC
+NBS
+SBS
+TBS Seoul
+TJB
+국방国防TV
+
+体育频道,#genre#
+ACC Network
+Bein Sports English 2
+Bein Sports USA
+CBS Sports Network
+DAZN
+ESPN
+ESPN 2
+ESPN News
+ESPN U
+Eurosport 1
+Eurosport 2
+Fight Network
+Fox Sports 1
+Fox Sports 2
+Golf Channel
+LaLiga TV
+LFC TV
+MLB Network
+MUTV
+NBA TV
+NFL Network
+NFL Redzone
+NHL Network
+Premier Sports 1
+Premier Sports 2
+Sky Sports Action
+Sky Sports Arena
+Sky Sports Cricket
+Sky Sports F1
+Sky Sports Football
+Sky Sports Golf
+Sky Sports Main Event
+Sky Sports Mix
+Sky Sports News
+Sky Sports Premier League
+Sky Sports Racing
+Sky Sports Tennis
+SuperSport Action
+SuperSport Blitz
+SuperSport Cricket
+SuperSport Football
+SuperSport Golf
+SuperSport LaLiga
+SuperSport Premier League
+SuperSport Rugby
+SuperSport Tennis
+Tennis Channel
+TNT Sport 1
+TNT Sport 2
+TNT Sport 3
+TNT Sport 4
+Variety 1
+Variety 2
+Variety 3
+Variety 4
+Willow Cricket
+Willow Extra
+World Fishing Network
+WWE
+
