@@ -46,6 +46,11 @@ https://raw.githubusercontent.com/kilvn/iptv/refs/heads/master/live-china.m3u
 
 https://raw.githubusercontent.com/lalifeier/IPTV/refs/heads/main/txt/Chunwan.txt
 https://raw.githubusercontent.com/lalifeier/IPTV/refs/heads/main/txt/Local.txt
+https://raw.githubusercontent.com/lalifeier/IPTV/refs/heads/main/txt/Hot.txt
+https://github.com/lalifeier/IPTV/raw/refs/heads/main/txt/live/SpecialLine.txt
+https://github.com/lalifeier/IPTV/raw/refs/heads/main/txt/Sport.txt
+
+
 
 #已失效
 #https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
