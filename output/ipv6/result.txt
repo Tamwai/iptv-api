@@ -1,8 +1,8 @@
 央视频道,#genre#
 CCTV-1,http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
 CCTV-1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
-CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8$LR•IPV4『线路203』
+CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=16a362b923a43fa0d4ce2aba3ecd88cd5e53be41dc5d15a9d1c9bad7fb665c1a2cee1355de7ca1df5ea56c38b88d68c7837724e9d16f358d73f49a202d62a71f7b2eb754beefe9b46eb9e8ab25$LR•IPV4『线路281』
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=ba552a2083efcc0e9cac8e15f58b13e090dab068fdb3997d064fd7e6e5f165824a5caaa619f3447f77d75712ad65bd76cb137741f46b0a28cb1afc020328b9b4ec1d3f8e8fed80beb6245b6544$LR•IPV4『线路282』
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=b6a50213ea411edfdeda0e4c7abb5985d6a4f4c3d2f34274d4906fe15400b56f0a5a4ae5fb1d8e0ba25591ea3977d8cc6e1a4faa5a316308a146dfe83d122086fb13709fb6495fea020b068333$LR•IPV4『线路283』
@@ -46,7 +46,6 @@ CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=cc5fda32f92c3778b4ec
 CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=ca824f02f6213b64bc94ece82f051a14d6b4b3a0a87493655d302b6c76e29668b57118071931e320faddacacabcb320684e805e3e5b3fdd4465a65f9bc6eac1ff4f24f1c0cde6a2a5cd9a8553a$LR•IPV4『线路339』
 CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=583eb8c5c48e5b14a4f782b43058efc16d128e0d4fa47e5b0814dfe842c8a8951d803a45a71656bc7fff6ba305cfbcd3d55909a119e8d9c1456b3842378e809ded8d3aa6cd633c2eadcab87259$LR•IPV4『线路340』
 CCTV-3,http://www.freetv.top/migu/624878271.m3u8?migutoken=21306af96cf9259457600792df858b0d339bc7203aeb7e1a6ee6ec6ec3832a2736936029fe2583dcf971676870fdf0afbdee5be786e50af2ac6a8825673cc860d7988f44d0c5c4bc1931259698$LR•IPV4『线路342』
-CCTV-3,http://dsj.motem.top:8880/gaoma/cctv3.m3u8$本地源
 CCTV-4,http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
 CCTV-4,http://39.134.65.175/PLTV/88888888/224/3221225797/1.m3u8
 CCTV-4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428$订阅源
@@ -78,7 +77,6 @@ CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=5f46d328a6ba4b17e3c5
 CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=5419f38d020fc6c0f4160940012d9c60af8160fe26d1afc244d3171a5fb0eca4a95711596173fa41db6d1c1e8e14ed17b4612f21192afa5f3e8867b00bd25545464e545fd9abf66d5acdfe1313$LR•IPV4『线路288』
 CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=13cc5084dacec107984b1a7783716f0b4d6205d02eda857fd393403d7db53274097bd692c96c6659920f5a71a931792d21535bdc3cfcfc05b2cf171f006a834f370f0e50d3727a799c636657c8$LR•IPV4『线路376』
 CCTV-5,http://www.freetv.top/migu/641886683.m3u8?migutoken=cea30189b17e30fb3b4876609eb6e3128f840f8ab5db6f9643403213dc9980613938be69b13fe0290d2c44f0052b78d90c669a2f92e28951f92da861b7cba070b55ec1b4fe1a92a2c133c43c4c$LR•IPV4『线路286』
-CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai$订阅源
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8$订阅源
 CCTV-5,http://dsj.motem.top:8880/gaoma/cctv5.m3u8$本地源
 CCTV-5+,http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
@@ -289,32 +287,33 @@ CCTV-17,http://dsj.motem.top:8880/gaoma/cctv17.m3u8$本地源
 其他频道,#genre#
 Deluxe Lounge,http://jmp2.uk/sam-CHAJ0500413A.m3u8$订阅源
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-Red Bull TV,https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8$本地源
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8$订阅源
+Red Bull TV,https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8$本地源
 Red Bull TV,https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8$订阅源
 Fashion TV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8$订阅源
 台视新闻,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn$本地源
 NHK World Japan,https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8$本地源
 
 港·澳·台,#genre#
+凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8$本地源
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php$订阅源
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$LR•IPV4『线路35』
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2$LR•IPV4『线路41』
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8$本地源
-凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8$本地源
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php$订阅源
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$LR•IPV4『线路2』
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2$LR•IPV4『线路27』
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$本地源
-凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn$本地源
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$LR•IPV4『线路4』
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8$本地源
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$LR•IPV4『线路4』
+凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn$本地源
 凤凰卫视中文台,http://php.jdshipin.com/TVOD/iptv.php$订阅源
 凤凰卫视中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$LR•IPV4『线路2』
 凤凰卫视中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2$LR•IPV4『线路27』
 凤凰卫视中文台,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$本地源
-凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd$本地源
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$本地源
+凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd$本地源
+翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8$本地源
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct$LR•IPV4『线路3』
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3$LR•IPV4『线路4』
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3$LR•IPV4『线路5』
@@ -324,19 +323,16 @@ NHK World Japan,https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8$本地
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$LR•IPV4『线路15』
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3$LR•IPV4『线路19』
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2$LR•IPV4『线路22』
-翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8$本地源
-千禧经典台(HK),https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic$本地源
 千禧经典台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc$本地源
-千禧经典台(HK),http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic$本地源
-千禧经典,https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic$本地源
+千禧经典台(HK),https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic$本地源
 千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc$本地源
-千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic$本地源
+千禧经典,https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic$本地源
 TVB娱乐新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2$本地源
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe$本地源
 TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe$本地源
-TVB无线新闻,https://smart.pendy.dpdns.org/Smart.php?id=inews_twn$本地源
-TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn$订阅源
 TVB无线新闻,http://cdn3.132.us.kg/live/wxxw/stream.m3u8$本地源
+TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn$订阅源
+TVB无线新闻,https://smart.pendy.dpdns.org/Smart.php?id=inews_twn$本地源
 TVB无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$本地源
 TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc$本地源
 TVB明珠,http://php.jdshipin.com:8880/smt.php?id=pearl_twn$本地源
@@ -347,66 +343,66 @@ TVBPLUS,http://cdn.163189.xyz/live/tvbp/stream.m3u8$本地源
 TVB J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2$本地源
 中天综合,https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe$本地源
 中天娱乐,https://smart.pendy.dpdns.org/Smart.php?id=ctient$本地源
-中天亚洲,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn$本地源
 中天亚洲,https://tv.iill.top/litv/4gtv-4gtv109$本地源
-中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews$本地源
+中天亚洲,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn$本地源
 中天新闻,https://tv.iill.top/litv/4gtv-4gtv009$本地源
+中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews$本地源
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8$本地源
-中视新闻,https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn$本地源
 中视新闻,https://tv.iill.top/litv/4gtv-4gtv074$本地源
+中视新闻,https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn$本地源
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8$订阅源
 中视菁采,https://tv.iill.top/litv/4gtv-4gtv064$本地源
-中视经典,https://smart.pendy.dpdns.org/Smart.php?id=zhongshi_twn$本地源
 中视经典,https://tv.iill.top/litv/4gtv-4gtv080$本地源
+中视经典,https://smart.pendy.dpdns.org/Smart.php?id=zhongshi_twn$本地源
 有线新闻,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn$本地源
-亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$本地源
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd$本地源
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$本地源
 无线新闻台(北美),http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw$本地源
 无线新闻台(北美),http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$本地源
 无线新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw$本地源
 无线新闻台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$本地源
-无线华丽,https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade$本地源
 无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali$本地源
+无线华丽,https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade$本地源
 无线华丽,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade$本地源
 緯來體育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport$本地源
 台视新闻,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn$本地源
-三立综合,https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe$本地源
 三立综合,https://tv.iill.top/4gtv/169$本地源
+三立综合,https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe$本地源
 三立新闻,https://tv.iill.top/4gtv/229$本地源
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$本地源
 三立都会,https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui$本地源
 民视综艺,https://tv.iill.top/litv/4gtv-4gtv004$本地源
 民视影剧,https://tv.iill.top/litv/litv-ftv09$本地源
-民视新闻,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan$本地源
 民视新闻,https://tv.iill.top/litv/litv-ftv13$本地源
-民视台湾,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn$本地源
+民视新闻,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan$本地源
 民视台湾,https://tv.iill.top/litv/4gtv-4gtv001$本地源
+民视台湾,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn$本地源
 民视旅游,https://tv.iill.top/litv/litv-ftv07$本地源
-民视第一,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn$本地源
 民视第一,https://tv.iill.top/litv/4gtv-4gtv003$本地源
+民视第一,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn$本地源
 民视,https://tv.iill.top/litv/4gtv-4gtv002$本地源
-美亚电影台(HK),https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn$本地源
 美亚电影台(HK),http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn$本地源
-美亚电影,https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn$本地源
+美亚电影台(HK),https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn$本地源
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn$本地源
-龙华电影,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie$本地源
+美亚电影,https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn$本地源
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8$本地源
 龙华电影,https://tv.iill.top/litv/litv-longturn03$本地源
+龙华电影,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie$本地源
 镜电视新闻,https://tv.iill.top/litv/4gtv-4gtv075$本地源
 靖天电影,https://tv.iill.top/litv/4gtv-4gtv061$本地源
-寰宇新聞台,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn$本地源
 寰宇新聞台,https://tv.iill.top/litv/litv-longturn14$本地源
+寰宇新聞台,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn$本地源
 寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8$订阅源
-寰宇新闻,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn$本地源
 寰宇新闻,https://tv.iill.top/litv/litv-longturn14$本地源
+寰宇新闻,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn$本地源
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8$订阅源
 华视,https://tv.iill.top/litv/4gtv-4gtv041$订阅源
 华视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8$订阅源
-非凡新闻,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn$本地源
 非凡新闻,https://tv.iill.top/litv/4gtv-4gtv010$本地源
+非凡新闻,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn$本地源
 东森综合,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe$本地源
-东森新闻,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews$本地源
 东森新闻,https://tv.iill.top/litv/4gtv-4gtv152$本地源
+东森新闻,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews$本地源
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie$本地源
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper$本地源
 东森财经新闻,https://tv.iill.top/litv/4gtv-4gtv153$本地源
@@ -416,14 +412,14 @@ TVB J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2$本地源
 八大综合,https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe$本地源
 八大戏剧,https://smart.pendy.dpdns.org/Smart.php?id=badadrama$本地源
 八大第一,https://smart.pendy.dpdns.org/Smart.php?id=badafirst$本地源
-澳门莲花,http://php.jdshipin.com:8880/amlh.php$本地源
 澳门莲花,https://tv.iill.top/mo/lhws$本地源
+澳门莲花,http://php.jdshipin.com:8880/amlh.php$本地源
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$本地源
 VIU,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$本地源
 Taiwan Plus TV,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8$本地源
 Taiwan Plus TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8$订阅源
-RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32$本地源
 RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8$本地源
+RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32$本地源
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2$本地源
 DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8$订阅源
 Astro AEC,http://php.jdshipin.com/smt.php$订阅源
@@ -580,6 +576,7 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 陕西卫视,http://39.134.67.108/PLTV/88888888/224/3221225989/1.m3u8
 陕西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010113$本地源
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=2811d59f756bd877ff82baab357029babfd42a225de3fc15373dd44a1eebc8fbe99b4cb84744baa6a1a884e6234a5608467ca1188361e65f980ee6900e1e4d76728f01cb0b40114546b51af18f$本地源
+陕西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=$订阅源
 陕西卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887404.m3u8$订阅源
 四川卫视,http://39.134.67.108/PLTV/88888888/224/3221225970/1.m3u8
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338$本地源
@@ -614,15 +611,15 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 央视付费频道,#genre#
 
 广东频道,#genre#
-广东珠江,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang$本地源
-广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8$本地源
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8$本地源
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$LR•IPV4『线路80』
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8$本地源
-广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8$本地源
+广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8$本地源
+广东珠江,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang$本地源
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8$本地源
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty$LR•IPV4『线路8』
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$本地源
+广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8$本地源
 广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw$本地源
 广东卫视,http://39.134.67.108/PLTV/88888888/224/3221225966/1.m3u8
 广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws$LR•IPV4『线路226』
@@ -651,11 +648,17 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 浙江钱江,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8$本地源
 浙江钱江台,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8$本地源
 浙江生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8$本地源
+浙江生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8$本地源
 浙江生活,http://ls.qingting.fm/live/1099.m3u8$本地源
 浙江经济生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8$本地源
+浙江经济生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8$本地源
 浙江经济生活,http://ls.qingting.fm/live/1099.m3u8$本地源
-浙江国际,https://qiniup-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$本地源
+浙江教育,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8$本地源
+浙江民生,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8$本地源
+浙江新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8$本地源
 嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8$本地源
+浙江留学,http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8$本地源
+浙江民生休闲,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8$本地源
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8$订阅源
 浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8$订阅源
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8$订阅源
@@ -791,8 +794,8 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 
 广西频道,#genre#
 南宁公共,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8$订阅源
-南宁新闻综合,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d1391be1fc200f8e4700c5d82b44edae$本地源
 南宁新闻综合,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d$本地源
+南宁新闻综合,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d1391be1fc200f8e4700c5d82b44edae$本地源
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8$订阅源
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8$本地源
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8$本地源
@@ -887,15 +890,14 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 五台综合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd$订阅源
 古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8$订阅源
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8$订阅源
-怀仁综合,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8$本地源
 怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8$订阅源
 怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd$订阅源
+怀仁综合,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8$本地源
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8$订阅源
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd$订阅源
 汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8$订阅源
 祁县新闻综合,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8$订阅源
 长子综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8$订阅源
-长子综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd$订阅源
 阳曲综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd$本地源
 
 安徽频道,#genre#
@@ -911,7 +913,6 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 滁州市广播电视台 公共,http://live.cztv.cc:85/live/ggpd.m3u8$本地源
 滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8$订阅源
 滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8?zanhd$订阅源
-宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8$本地源
 宿州新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8$本地源
 宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd$本地源
 六安新闻综合,http://ls.qingting.fm/live/267.m3u8$本地源
@@ -939,9 +940,11 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 安多卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225659$本地源
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8$订阅源
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8$订阅源
+安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd$订阅源
 西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8$订阅源
 西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8$订阅源
 西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd$订阅源
+西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8$订阅源
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8$订阅源
 
 黑龙江频道,#genre#
@@ -954,7 +957,6 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8$本地源
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8$本地源
 哈尔滨新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226434$本地源
-哈尔滨生活,http://streamings.hrbtv.net/09e35fcca53542bfa24a6b34e0fc2ff8/h264_400k_ts/index.m3u8?type=hls_live_redirect$订阅源
 鹤岗新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226534$本地源
 佳木斯新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226451$本地源
 齐齐哈尔新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226437$本地源
@@ -979,7 +981,6 @@ CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=5f46d328a6ba4b17e3c5
 CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=5419f38d020fc6c0f4160940012d9c60af8160fe26d1afc244d3171a5fb0eca4a95711596173fa41db6d1c1e8e14ed17b4612f21192afa5f3e8867b00bd25545464e545fd9abf66d5acdfe1313$LR•IPV4『线路288』
 CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=13cc5084dacec107984b1a7783716f0b4d6205d02eda857fd393403d7db53274097bd692c96c6659920f5a71a931792d21535bdc3cfcfc05b2cf171f006a834f370f0e50d3727a799c636657c8$LR•IPV4『线路376』
 CCTV-5,http://www.freetv.top/migu/641886683.m3u8?migutoken=cea30189b17e30fb3b4876609eb6e3128f840f8ab5db6f9643403213dc9980613938be69b13fe0290d2c44f0052b78d90c669a2f92e28951f92da861b7cba070b55ec1b4fe1a92a2c133c43c4c$LR•IPV4『线路286』
-CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai$订阅源
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8$订阅源
 CCTV-5,http://dsj.motem.top:8880/gaoma/cctv5.m3u8$本地源
 CCTV-5+,http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
@@ -999,10 +1000,10 @@ CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=d7396c05a877872a751
 CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=408252ae4ee84d4533a52e87dc35e108f3557992d0837a3c98af9093fccdb78373328e743136467868d2125b1fa35c3f4d576327db5e3ec96ec3108e28e950fb462f2dc81da44be8ae43ebe0ce$LR•IPV4『线路141』
 CCTV-5+,http://www.freetv.top/migu/641886773.m3u8?migutoken=752524a725f1fe3e2f8566518e97cd59f827e367318341fa56132b91af956b4e1cd85f255dd26352c1e9611c76770d0ba4afaf07d71eb65ec9859b3d8239dd7806fb2b21c9410b3e062eab2fcc$LR•IPV4『线路142』
 CCTV-5+,http://dsj.motem.top:8880/gaoma/cctv5p.m3u8$本地源
-广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8$本地源
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8$本地源
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty$LR•IPV4『线路8』
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$本地源
+广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8$本地源
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport$本地源
 劲爆体育,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000008$本地源
 劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6$本地源
@@ -1080,13 +1081,13 @@ WWE,https://tv.iill.top/beesport/WWE_Live_TV$订阅源
 金鹰卡通,http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8$本地源
 黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002$本地源
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$本地源
-河北少儿科教,rtmp://tv.pull.hebtv.com/jishi/shaoerkejiao?t=2510710360&k=1c62f2efbb83251f173978255f47079d$本地源
 七龙珠,https://live.iill.top/huya/11601966$本地源
 火影忍者,https://live.iill.top/douyu/1997723$本地源
 海绵宝宝,https://live.metshop.top/douyu/3949681$本地源
-中华小当家,https://live.iill.top/huya/11342413$本地源
 中华小当家,https://live.metshop.top/huya/11342413$本地源
+中华小当家,https://live.iill.top/huya/11342413$本地源
 猫和老鼠,https://live.iill.top/huya/11352879$本地源
+漫画解说,https://www.goodiptv.club/douyu/5907076$本地源
 
 游戏频道,#genre#
 游戏风云,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031114$本地源
@@ -1113,13 +1114,11 @@ CCTV-15,http://dsj.motem.top:8880/gaoma/cctv15.m3u8$本地源
 经典剧场,#genre#
 笑傲江湖,https://live.iill.top/huya/23865142$本地源
 笑傲江湖,http://live.metshop.top/huya/26355790$本地源
-天龙八部,http://www.clmy.cc:35455/yy/1355067965$本地源
 天龙八部,https://live.metshop.top/huya/23903123$本地源
 三国演义,https://live.iill.top/huya/11602081$本地源
 三国演义,http://live.metshop.top/huya/11602081$本地源
-水浒传,http://www.clmy.cc:35455/yy/1353873252$本地源
-新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667$本地源
-封神榜,http://www.clmy.cc:35455/yy/1353426319$本地源
+封神榜,https://www.goodiptv.club/yy/1382797534$本地源
+上海滩,https://www.goodiptv.club/yy/1382745184$本地源
 
 IHOT,#genre#
 
@@ -1144,12 +1143,12 @@ Classic Arts Showcase 4K,https://classicarts.akamaized.net/hls/live/1024257/CAS/
 春晚,#genre#
 
 海外频道,#genre#
-CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8$本地源
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8$本地源
-BBC,https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8$本地源
+CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8$本地源
 BBC,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298$本地源
-新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$本地源
+BBC,https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8$本地源
 新加坡国际,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$本地源
+新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$本地源
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$本地源
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$本地源
 半岛新闻,https://tv.iill.top/litv/litv-ftv10$订阅源
@@ -1166,4 +1165,4 @@ KBS 1,https://tv.iill.top/kbs/11&p=0$订阅源
 KBS 2,https://tv.iill.top/kbs/12&p=0$订阅源
 
 🕘️更新时间,#genre#
-2025-06-14 06:32:03,http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
+2025-06-16 06:28:19,http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
