@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/Rivens7/Livelist/refs/heads/main/CNTV.m3u
 https://raw.githubusercontent.com/Rivens7/Livelist/refs/heads/main/CCTV.m3u
 
 https://raw.githubusercontent.com/jiangnan1224/iptv_ipv4_live/refs/heads/main/iptv.txt
-
+https://raw.githubusercontent.com/Wirili/IPTV/refs/heads/main/live.txt
 
 
 #以下待测试
