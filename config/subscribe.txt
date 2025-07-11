@@ -31,6 +31,10 @@ https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u
 https://raw.githubusercontent.com/Rivens7/Livelist/refs/heads/main/CNTV.m3u
 https://raw.githubusercontent.com/Rivens7/Livelist/refs/heads/main/CCTV.m3u
 
+https://raw.githubusercontent.com/jiangnan1224/iptv_ipv4_live/refs/heads/main/iptv.txt
+
+
+
 #以下待测试
 https://raw.githubusercontent.com/kimcrowing/IPTV/refs/heads/master/1300%E4%B8%AA%E7%9B%B4%E6%92%AD%E6%BA%90%E5%85%A8%E9%83%A8%E6%9C%89%E6%95%88%E3%80%90%E5%85%A8%E9%83%A84k%E8%80%81%E7%94%B5%E8%84%91%E5%88%AB%E7%94%A8%E3%80%91.m3u8
 https://raw.githubusercontent.com/kimcrowing/IPTV/refs/heads/master/3100%E4%B8%AA%E5%85%A8%E9%83%A8%E6%9C%89%E6%95%88.m3u8
