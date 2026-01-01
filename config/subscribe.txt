@@ -13,7 +13,14 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 
 
+
 #以下是自己添加的
+
+#冰茶，不知道好不好用
+https://bc.188766.xyz/?ip=&mima=bingcha1130&huikan=en
+https://bc.188766.xyz/?ip=
+
+
 
 https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
@@ -56,10 +63,6 @@ https://github.com/lalifeier/IPTV/raw/refs/heads/main/txt/Sport.txt
 
 https://github.com/lalifeier/IPTV/raw/refs/heads/main/txt/tw.txt
 https://github.com/lalifeier/IPTV/raw/refs/heads/main/m3u/MyTV.m3u
-
-#冰茶，不知道好不好用
-https://bc.188766.xyz/?ip=&mima=bingcha1130&huikan=en
-https://bc.188766.xyz/?ip=
 
 
 
