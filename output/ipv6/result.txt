@@ -1,7 +1,6 @@
 央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 CCTV-1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8$LR•IPV6『线路11』
-CCTV-1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8$LR•IPV6『线路18』
 CCTV-1,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8$LR•IPV6『线路27』
 CCTV-1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8$LR•IPV4『线路111』
 CCTV-1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226225/index.m3u8$LR•IPV4『线路136』
@@ -24,6 +23,7 @@ CCTV-1,https://cc06.tv12.xyz/1.m3u8$LR•37•IPV4『线路2』
 CCTV-1,https://migu.188766.xyz/?migutoken=79e4e1c1bc0ee828a90fb188e8eb348c&id=CCTV1&pp=1$LR•41•IPV4『线路3』
 CCTV-1,https://migu.188766.xyz/?migutoken=741e40cd30ca20ff5b10e49b08c79086&id=CCTV1&type=yy$LR•35•IPV4『线路1』
 CCTV-1,https://migu.188766.xyz/?migutoken=1b6ed0ad58ca3591d96a2ee4d24ad44f&id=CCTV1&type=yy$LR•27•IPV4『线路2』
+CCTV-1,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8$LR•IPV6『线路4』
 CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588$订阅源
 CCTV-2,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$订阅源
 CCTV-2,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$订阅源
@@ -210,9 +210,6 @@ CCTV-5,https://migu.188766.xyz/?migutoken=4e6513876d715dabf5547420dddaa1f2&id=CC
 CCTV-5,https://migu.188766.xyz/?migutoken=3803480da7c3ee6e07115f4bb5827c0d&id=CCTV5&type=yy$LR•22•IPV4『线路20』
 CCTV-5,https://migu.188766.xyz/?migutoken=c83b4f41efe4ebc2e7b4db08353cc545&id=CCTV5p&type=yy$LR•24•IPV4『线路21』
 CCTV-5,https://hls-gateway.vpstv.net/streams/476885.m3u8$LR•24•IPV4『线路22』
-CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
-CCTV-5,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225633/2/index.m3u8$LR•IPV6『线路1』
-CCTV-5,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMSXw4ajlL%2FoUYC2RZQQDco6uQSifXBocz5ID6RePfIKQ4rFWiHjq%2FeZoDmrzW%2FKlw$LR•IPV6『线路5』
 CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8$本地源
 CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603$订阅源
 CCTV-5+,http://[2409:8087:74f0:22::4]:6410/270000001111/1110000306/index.m3u8$订阅源
@@ -267,7 +264,6 @@ CCTV-5+,https://migu.188766.xyz/?migutoken=d4d4aaf489e04b016bc044974d5a8586&id=C
 CCTV-5+,https://migu.188766.xyz/?migutoken=22b257c7fa63ba5d4fac7d061b4868b9&id=CCTV5p&type=yy$LR•29•IPV4『线路1』
 CCTV-5+,https://migu.188766.xyz/?migutoken=7ee301798fa791a9b3127827daf3981e&id=CCTV5p&type=yy$LR•30•IPV4『线路2』
 CCTV-5+,https://hls-gateway.vpstv.net/streams/476888.m3u8$LR•22•IPV4『线路16』
-CCTV-5+,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225706/2/index.m3u8$LR•IPV6『线路1』
 CCTV-6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 CCTV-6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 CCTV-6,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226453/1.m3u8$本地源
@@ -323,7 +319,7 @@ CCTV-6,https://migu.188766.xyz/?migutoken=6c512cf4ff3eb05960bf6ea8480ad38b&id=CC
 CCTV-6,https://migu.188766.xyz/?migutoken=a7be17871976c4a9d07fb099152d64a6&id=CCTV6&type=yy$LR•37•IPV4『线路1』
 CCTV-6,https://migu.188766.xyz/?migutoken=f86bd047905dd1bc1610fcf80eda94cf&id=CCTV6&type=yy$LR•14•IPV4『线路12』
 CCTV-6,https://hls-gateway.vpstv.net/streams/476890.m3u8$LR•14•IPV4『线路13』
-CCTV-6,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225632/2/index.m3u8$LR•IPV6『线路1』
+CCTV-6,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225650/2/index.m3u8$LR•IPV6『线路2』
 CCTV-7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 CCTV-7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 CCTV-7,http://goo.bkpcp.top/mg/CCTV7$本地源
@@ -369,7 +365,6 @@ CCTV-7,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224
 CCTV-7,http://z.b.bkpcp.top/m.php?id=cctv7$LR•IPV4『线路98』
 CCTV-7,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226451/1.m3u8$订阅源
 CCTV-7,https://cc06.tv12.xyz/8.m3u8$订阅源
-CCTV-7,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225499/index.m3u8?fmt=ts2hls$LR•IPV4『线路128』
 CCTV-8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 CCTV-8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 CCTV-8,http://goo.bkpcp.top/mg/cctv8$本地源
@@ -535,7 +530,6 @@ CCTV-10,https://cc06.tv12.xyz/11.m3u8$LR•37•IPV4『线路4』
 CCTV-10,https://migu.188766.xyz/?migutoken=b00581e45a5c4b3ea7a6235947058e8c&id=CCTV10&pp=1$LR•53•IPV4『线路5』
 CCTV-10,https://migu.188766.xyz/?migutoken=19b5e0bcb8ae6631bda421c2e246f5ee&id=CCTV10&type=yy$LR•25•IPV4『线路3』
 CCTV-10,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226464/1.m3u8$LR•27•IPV6『线路25』
-CCTV-10,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225496/index.m3u8?fmt=ts2hls$LR•IPV4『线路128』
 CCTV-10,https://t.freetv.fun/live/cctv-10-1.php$LR•16•IPV4『线路3』
 CCTV-11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 CCTV-11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
@@ -588,7 +582,6 @@ CCTV-11,https://migu.188766.xyz/?migutoken=9233fb7f4ad65153cb4c8b48268defc4&id=C
 CCTV-11,https://migu.188766.xyz/?migutoken=80c1bdfa4a00f97df39c6bebbce61690&id=CCTV11&type=yy$LR•32•IPV4『线路3』
 CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8$LR•13•IPV4『线路12』
 CCTV-11,https://migu.188766.xyz/?migutoken=50679bf783d9523c4b1a1905e6ecef93&id=CCTV11&type=yy$LR•12•IPV4『线路11』
-CCTV-11,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225628/2/index.m3u8$LR•IPV6『线路1』
 CCTV-12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV-12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV-12,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8$本地源
@@ -643,9 +636,6 @@ CCTV-12,http://lu.wqwqwq.sbs/itv/1000000005000265012.m3u8$订阅源
 CCTV-12,https://migu.188766.xyz/?migutoken=fbdb7d1613a8dabdb1ec192c4f31babb&id=CCTV12&pp=1$LR•36•IPV4『线路3』
 CCTV-12,https://cc06.tv12.xyz/13.m3u8$LR•36•IPV4『线路4』
 CCTV-12,https://migu.188766.xyz/?migutoken=18cd7da0c231673a40a6a2660c37d344&id=CCTV12&type=yy$LR•26•IPV4『线路3』
-CCTV-12,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000377/index.m3u8?key=tvbox6_com$LR•IPV6『线路24』
-CCTV-12,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225495/index.m3u8?fmt=ts2hls$LR•IPV4『线路136』
-CCTV-12,http://lu.wqwqwq.sbs/itv/1000000005000265012.m3u8?cdn=ystenlive$LR•IPV4『线路223』
 CCTV-13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV-13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$本地源
@@ -702,7 +692,6 @@ CCTV-13,https://hls-gateway.vpstv.net/streams/476899.m3u8$LR•14•IPV4『线�
 CCTV-13,http://pull-hs-f5.flive.douyincdn.com/media/stream-695180860228633260/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1769679988&major_anchor_level=common&sign=71caa1f6b7f3159013b402e1b0400258&t_id=037-20260122174627710B9646E4C8968A739B-Pdey7N&volcSecret=71caa1f6b7f3159013b402e1b0400258&volcTime=1769679988$LR•15•IPV4『线路3』
 CCTV-13,https://t.freetv.fun/live/cctv13-21.m3u8$LR•15•IPV4『线路5』
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
-CCTV-13,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225638/2/index.m3u8$LR•IPV6『线路1』
 CCTV-13,http://pull-hs-f5.flive.douyincdn.com/media/stream-695199811564733100/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1770511198&major_anchor_level=common&sign=a5f0064ed33415876c1d12fab10ca68e&t_id=037-202602010839576904EF192E278886357A-RENaqt&volcSecret=a5f0064ed33415876c1d12fab10ca68e&volcTime=1770511198$LR•15•IPV4『线路4』
 CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
@@ -766,8 +755,7 @@ CCTV-14,https://cc06.tv12.xyz/15.m3u8$LR•41•IPV4『线路6』
 CCTV-14,https://migu.188766.xyz/?migutoken=c751c32eac2f3e4888b17f22cbc1d6fd&id=CCTV14&pp=1$LR•40•IPV4『线路5』
 CCTV-14,https://migu.188766.xyz/?migutoken=6f9dc0dce2820e4a11c5f87284c7e707&id=CCTV14&type=yy$LR•29•IPV4『线路4』
 CCTV-14,https://migu.188766.xyz/?migutoken=fd354dfab19cdf80963e56967aca7145&id=CCTV14&type=yy$LR•37•IPV4『线路3』
-CCTV-14,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225639/2/index.m3u8$LR•IPV6『线路1』
-CCTV-14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m3u8?fmt=ts2hls$LR•IPV4『线路133』
+CCTV-14,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225494/2/index.m3u8$LR•IPV6『线路2』
 CCTV-15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8$本地源
 CCTV-15,http://iptv.huuc.edu.cn/hls/cctv15hd.m3u8$本地源
 CCTV-15,http://nas.suntao.online:35455/itv/1000000005000265014.m3u8?cdn=ystenlive$本地源
@@ -820,7 +808,7 @@ CCTV-15,https://migu.188766.xyz/?migutoken=06e6815c4f933aae55f00f89b84dc8dd&id=C
 CCTV-15,https://cc06.tv12.xyz/16.m3u8$LR•37•IPV4『线路4』
 CCTV-15,https://migu.188766.xyz/?migutoken=1e4c6f10125ab0b7d79deccf605dd5ed&id=CCTV15&type=yy$LR•35•IPV4『线路3』
 CCTV-15,https://migu.188766.xyz/?migutoken=a2117e4c051f9ac341e7728d2649b69b&id=CCTV15&type=yy$LR•35•IPV4『线路3』
-CCTV-15,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225641/2/index.m3u8$LR•IPV6『线路1』
+CCTV-15,http://lu.wqwqwq.sbs/itv/1000000005000265014.m3u8?cdn=ystenlive$LR•IPV4『线路215』
 CCTV-16,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8$本地源
 CCTV-16,http://nas.suntao.online:35455/itv/1000000006000233002.m3u8?cdn=ystenlive$本地源
 CCTV-16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100$订阅源
@@ -854,7 +842,6 @@ CCTV-16,https://migu.188766.xyz/$订阅源
 CCTV-16,http://free.cnlive.club/channel/c15fcc8/index.m3u8$订阅源
 CCTV-16,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8$订阅源
 CCTV-16,http://lu.wqwqwq.sbs/itv/1000000006000233002.m3u8$订阅源
-CCTV-16,http://lu.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive$LR•IPV4『线路93』
 CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8$本地源
 CCTV-17,http://nas.suntao.online:35455/itv/1000000006000268004.m3u8?cdn=ystenlive$本地源
 CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765$订阅源
@@ -1041,7 +1028,7 @@ TVB J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2$本地源
 明珠台,https://mgev.188766.xyz/?migutoken=34bb2192b30e5559e579a82cc4051d79&id=hk_mzt&type=dy$LR•IPV4『线路10』
 明珠台,https://t.freetv.fun/live/ming-zhu.php$LR•IPV4『线路10』
 明珠台,https://mgev.188766.xyz/?migutoken=aa134813480b0241f3fbc8bd320c1104&id=hk_mzt&type=dy$LR•IPV4『线路10』
-明珠台,https://t.freetv.fun/live/ming-zhu-1.m3u8$LR•IPV4『线路8』
+明珠台,https://t.freetv.fun/live/ming-zhu-4.m3u8$LR•IPV4『线路9』
 星空卫视,http://iptv.huuc.edu.cn/hls/startv.m3u8$本地源
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193$本地源
 香港卫视,https://yvxymm.tv12.xyz/175.m3u8$LR•3•IPV4『线路2』
@@ -1199,7 +1186,6 @@ CHC动作电影,https://mursor.ottiptv.cc/migu/644368714.m3u8?migutoken=570a517d
 CHC动作电影,http://sport.pendy.dpdns.org/migu/644368714$订阅源
 CHC动作电影,https://live.chinacert.cftest5.cn/mg/$订阅源
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8$LR•7•IPV4『线路6』
-CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-2.php$LR•IPV4『线路9』
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8$本地源
 淘剧场,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887497.m3u8$订阅源
 淘剧场,http://missyao.com:35455/bptv/10000100000000050000000003887497.m3u8$订阅源
@@ -1240,6 +1226,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 纬来电影,https://smt.go-iptv.ggff.net/smart.php?id=videolandmovie&token=Goiptv$LR•IPV4『线路9』
 纬来电影,http://php.666230.xyz/smt.php?id=videolandmovie$LR•IPV4『线路10』
 纬来电影,https://tv.iill.top/x/wldy$LR•IPV4『线路10』
+纬来电影,https://tv.iill.top/x/wldy&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc$LR•IPV4『线路9』
 靖天映画,https://hls-gateway.vpstv.net/streams/476302.m3u8$LR•IPV4『线路2』
 靖天映画,http://pullpackage.alivecdn.com/live/hTZYTLKukHNqDnshCwsOBdnFoZs5a4UeCJ396iYBSzJGOEv6kg.flv$LR•IPV4『线路5』
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir$订阅源
@@ -1247,13 +1234,10 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 靖天映画,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv055/index.m3u8$订阅源
 靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055$LR•IPV4『线路8』
 靖天映画,https://mao.ffmking888.dpdns.org/$订阅源
-靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055$订阅源
 靖天戏剧,http://pullpackage.alivecdn.com/live/pU4fD0cP0dx6iXknYRcEzuZOQ6P6z5FsZ9KvAOPGsBry6iYBSe.flv$LR•IPV4『线路5』
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir$订阅源
 靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058$LR•IPV4『线路7』
 靖天戏剧,https://mao.ffmking888.dpdns.org/$订阅源
-靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058$订阅源
-靖天戏剧,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89$LR•IPV4『线路2』
 经典电影,http://goo.bkpcp.top/mg/jdxgdy$本地源
 经典电影,https://tv.iill.top/4gtv/201$本地源
 经典电影,https://mursor.ottiptv.cc/bilibili/1777481601$订阅源
@@ -1336,10 +1320,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 广东卫视,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8$LR•IPV4『线路112』
 广东卫视,https://migu.188766.xyz/?migutoken=e340defa6957148b4969a0f803fb146d&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy$LR•IPV4『线路114』
 广东卫视,https://migu.188766.xyz/?migutoken=721862d0d911f1d567653131947acfb3&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy$LR•26•IPV4『线路23』
-广东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$订阅源
-广东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225701/2/index.m3u8$LR•IPV6『线路1』
-广东卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000341/index.m3u8?key=tvbox6_com$LR•IPV6『线路43』
-广东卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225597/index.m3u8?fmt=ts2hls$LR•IPV4『线路288』
+广东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225742/2/index.m3u8$LR•IPV6『线路2』
 山东卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010066$本地源
 山东卫视,http://z.b.bkpcp.top/m.php?id=sdws$本地源
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$本地源
@@ -1387,8 +1368,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 山东卫视,https://cc06.tv12.xyz/101.m3u8$订阅源
 山东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226487/1.m3u8$LR•26•IPV6『线路25』
 山东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226501/1.m3u8$LR•26•IPV6『线路26』
-山东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8$订阅源
-山东卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225484/index.m3u8?fmt=ts2hls$LR•IPV4『线路243』
 香港卫视,https://yvxymm.tv12.xyz/175.m3u8$LR•3•IPV4『线路2』
 香港卫视,https://migu.188766.xyz/$订阅源
 香港卫视,https://migu.188766.xyz/?migutoken=6804cde09f4133e69f2aaf5406a2bcc5&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&type=yy$LR•5•IPV4『线路4』
@@ -1465,9 +1444,8 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 浙江卫视,https://cc06.tv12.xyz/117.m3u8$订阅源
 浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1763241357-5535289135eee1c8da05c7cab7e850fc-0-99fb8afe064b18c35accfd07e9ccb4a8$订阅源
 浙江卫视,https://migu.188766.xyz/?migutoken=f35be214ebb316a65c3fd0ab12fbe016&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1$LR•20•IPV4『线路13』
-浙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8$订阅源
-浙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225491/index.m3u8?fmt=ts2hls$LR•IPV4『线路285』
 浙江卫视,https://migu.188766.xyz/?migutoken=2f24b6cac3e957ae66b9784f2984af5e&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1$LR•22•IPV4『线路13』
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8$LR•IPV4『线路230』
 湖南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010058$本地源
 湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws$本地源
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8$本地源
@@ -1520,8 +1498,8 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 湖南卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8$LR•296•IPV6『线路252』
 湖南卫视,https://cc06.tv12.xyz/57.m3u8$订阅源
 湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-13.m3u8$LR•14•IPV4『线路6』
-湖南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225704/2/index.m3u8$LR•IPV6『线路1』
-湖南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls$LR•IPV4『线路288』
+湖南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225745/2/index.m3u8$LR•IPV6『线路2』
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8$LR•IPV4『线路221』
 北京卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143$本地源
 北京卫视,http://z.b.bkpcp.top/m.php?id=bjws$本地源
 北京卫视,http://j.x.bkpcp.top/jx/BEIJHD$本地源
@@ -1585,7 +1563,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 北京卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8$LR•298•IPV6『线路250』
 北京卫视,https://migu.188766.xyz/?migutoken=9b10bcb2d80e7fd618cc89a05b3cae1c&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy$LR•35•IPV4『线路8』
 北京卫视,https://cc06.tv12.xyz/27.m3u8$订阅源
-北京卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000173/index.m3u8?key=tvbox6_com$LR•IPV6『线路39』
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8$LR•IPV4『线路218』
 湖北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010057$本地源
 湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws$本地源
 湖北卫视,http://j.x.bkpcp.top/jx/HUBEIHD$本地源
@@ -1660,9 +1638,8 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 湖北卫视,https://migu.188766.xyz/?migutoken=113ab9c895c1921cf6e77bf26ea0823a&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy$LR•IPV4『线路107』
 湖北卫视,https://migu.188766.xyz/?migutoken=28e3fca758da2dd2f30b6475cb965890&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy$LR•IPV4『线路99』
 湖北卫视,https://migu.188766.xyz/?migutoken=9ce8cee147b666a41ccba5b8fd9d2b71&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy$LR•13•IPV4『线路12』
-湖北卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225699/2/index.m3u8$LR•IPV6『线路1』
-湖北卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226501/index.m3u8$LR•IPV6『线路3』
-湖北卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000250/index.m3u8?key=tvbox6_com$LR•IPV6『线路41』
+湖北卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226477/index.m3u8$LR•IPV6『线路6』
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8$LR•IPV4『线路221』
 黑龙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010056$本地源
 黑龙江卫视,http://j.x.bkpcp.top/jx/HEILJHD$本地源
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$本地源
@@ -1735,8 +1712,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 黑龙江卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$LR•263•IPV6『线路214』
 黑龙江卫视,https://cc06.tv12.xyz/53.m3u8$订阅源
 黑龙江卫视,https://hls-gateway.vpstv.net/streams/708854.m3u8$LR•IPV4『线路106』
-黑龙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225799/index.m3u8$订阅源
-黑龙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225586/index.m3u8?fmt=ts2hls$LR•IPV4『线路243』
 安徽卫视,http://j.x.bkpcp.top/jx/ANHUIHD$本地源
 安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8$本地源
 安徽卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226490/1.m3u8$本地源
@@ -1797,7 +1772,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 安徽卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8$LR•264•IPV6『线路219』
 安徽卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226337/1.m3u8$订阅源
 安徽卫视,https://cc06.tv12.xyz/26.m3u8$订阅源
-安徽卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225737/2/index.m3u8$LR•IPV6『线路1』
+安徽卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225691/2/index.m3u8$LR•IPV6『线路2』
 重庆卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010053$本地源
 重庆卫视,http://z.b.bkpcp.top/m.php?id=cqws$本地源
 重庆卫视,http://j.x.bkpcp.top/jx/CHONGQHD$本地源
@@ -1937,10 +1912,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1$LR•29•IPV4『线路2』
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8$LR•IPV4『线路94』
 东方卫视,https://migu.188766.xyz/?migutoken=d30a6db07f9a401217557c7884f1897e&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy$LR•IPV4『线路85』
-东方卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225659/2/index.m3u8$LR•IPV6『线路1』
-东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3$LR•IPV6『线路12』
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8$LR•IPV4『线路231』
-东方卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8?fmt=ts2hls$LR•IPV4『线路278』
 东南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010096$本地源
 东南卫视,http://z.b.bkpcp.top/m.php?id=dnws$本地源
 东南卫视,http://j.x.bkpcp.top/jx/DONGNHD$本地源
@@ -2000,10 +1971,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 东南卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8$LR•244•IPV6『线路201』
 东南卫视,https://cc06.tv12.xyz/38.m3u8$订阅源
 东南卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=$LR•IPV4『线路86』
-东南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8$订阅源
-东南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8$订阅源
-东南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0a]/wh7f454c46tw2900649569_-743777193/ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8?icpid=3&RTS=1669701501&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3$LR•IPV6『线路12』
-东南卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000502/index.m3u8?key=tvbox6_com$LR•IPV6『线路38』
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$本地源
 甘肃卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010098$本地源
 甘肃卫视,http://z.b.bkpcp.top/m.php?id=gsws$本地源
@@ -2040,8 +2007,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 甘肃卫视,https://cc06.tv12.xyz/44.m3u8$订阅源
 甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi.php$LR•IPV4『线路55』
 甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-3.m3u8$LR•IPV4『线路56』
-甘肃卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001298/index.m3u8?love=freedom#http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1400573680_-1979013462/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8?icpid=3&RTS=1668600490&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3$LR•IPV6『线路3』
-甘肃卫视,http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000322/index.m3u8?IASHttpSessionId=OTT$LR•IPV6『线路17』
 广西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226549$本地源
 广西卫视,http://z.b.bkpcp.top/m.php?id=gxws$本地源
 广西卫视,http://goo.bkpcp.top/mg/gxws$本地源
@@ -2084,8 +2049,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 广西卫视,http://[2409:8087:74f0:22::7]:6410/270000001128/9900000034/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000034$LR•230•IPV6『线路202』
 广西卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001224/index.m3u8?love=freedom$LR•230•IPV6『线路208』
 广西卫视,https://cc06.tv12.xyz/46.m3u8$订阅源
-广西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8$订阅源
-广西卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001224/index.m3u8?love=freedom#http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw1546067216_-1703904154/ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8?icpid=3&RTS=1674385956&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw2325655923_1638953995/ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8?icpid=3&RTS=1669700926&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3#https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000$LR•IPV6『线路5』
 贵州卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226474$本地源
 贵州卫视,http://z.b.bkpcp.top/m.php?id=gzws$本地源
 贵州卫视,http://j.x.bkpcp.top/jx/GUIZHD$本地源
@@ -2144,8 +2107,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 贵州卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8$LR•252•IPV6『线路207』
 贵州卫视,https://cc06.tv12.xyz/48.m3u8$订阅源
 贵州卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226521/1.m3u8$LR•25•IPV6『线路25』
-贵州卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8$订阅源
-贵州卫视,http://lu.wqwqwq.sbs/itv/5000000004000025843.m3u8?cdn=bestzb$LR•IPV4『线路197』
 海南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010083$本地源
 海南卫视,http://z.b.bkpcp.top/m.php?id=hinws$本地源
 海南卫视,http://j.x.bkpcp.top/jx/HAINHD$本地源
@@ -2213,9 +2174,8 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 海南卫视,https://migu.188766.xyz/?migutoken=e9b3342991bdabf0178516ba815bfbe2&id=hn_hnws&type=sz$LR•15•IPV4『线路6』
 海南卫视,https://migu.188766.xyz/?migutoken=ced453f47ec154b9fd0eeff1be94f8f1&id=hn_hnws&type=sz$LR•12•IPV4『线路5』
 海南卫视,https://migu.188766.xyz/?migutoken=59109d5960f47cd8f37d7396eca303f5&id=hn_hnws&type=sz$LR•15•IPV4『线路6』
-海南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$订阅源
-海南卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226465/index.m3u8$LR•IPV6『线路1』
-海南卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?key=tvbox6_com$LR•IPV6『线路27』
+海南卫视,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?IAS$LR•IPV6『线路15』
+海南卫视,http://lu.wqwqwq.sbs/itv/5000000004000006211.m3u8?cdn=bestzb$LR•IPV4『线路83』
 河北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010101$本地源
 河北卫视,http://z.b.bkpcp.top/m.php?id=hbws$本地源
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$本地源
@@ -2295,10 +2255,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1769033225&k=f5cb8f67e443f04a37e86308650153d9$订阅源
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1769212905&k=a73a06948defc7f277974371716ac864$订阅源
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1769900541&k=0d33af156c264af0d3f46448f283d800$订阅源
-河北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$订阅源
-河北卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw1698524218_988816054/ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8?icpid=3&RTS=1669700299&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3$LR•IPV6『线路11』
-河北卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN100000002BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaxEcGF7BsTm3tBZ5QM10A3THYCGyx0KiW2nghgGHiPYyNBht0ohR2xRP7wFZyAPWYATALvCqK4y6nrLdX80fn4$LR•IPV6『线路39』
-河北卫视,http://lu.wqwqwq.sbs/itv/5000000006000040016.m3u8?cdn=bestzb$LR•IPV4『线路102』
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480$本地源
 河南卫视,http://z.b.bkpcp.top/m.php?id=hnws$本地源
 河南卫视,http://j.x.bkpcp.top/jx/HENHD$本地源
@@ -2455,10 +2411,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 吉林卫视,https://migu.188766.xyz/?migutoken=f94424924a14bf318ae6094114ea2bd7&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy$LR•14•IPV4『线路12』
 吉林卫视,https://migu.188766.xyz/?migutoken=72d97b55ca5d208b987de31a62e8ebc6&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy$LR•IPV4『线路75』
 吉林卫视,https://migu.188766.xyz/?migutoken=9d4c511803803143e77b643e188e40cc&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy$LR•IPV4『线路76』
-吉林卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8$订阅源
-吉林卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000046BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QOVSARKsxkWGZw7vFUuOj2QqUR6TTs3uuC0H2mr3p6fRRazyiEPmSIyh%2BRO1%2BU3q84$LR•IPV6『线路19』
-吉林卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000533/index.m3u8?key=tvbox6_com$LR•IPV6『线路31』
-吉林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8$LR•IPV4『线路163』
+吉林卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1874077489_789689702/ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8?icpid=3&RTS=1669700475&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3$LR•IPV6『线路7』
 江苏卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010059$本地源
 江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws$本地源
 江苏卫视,http://goo.bkpcp.top/mg/jsws$本地源
@@ -2528,9 +2481,8 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 江苏卫视,https://cc06.tv12.xyz/61.m3u8$订阅源
 江苏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8$LR•27•IPV6『线路26』
 江苏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226491/1.m3u8$LR•27•IPV6『线路27』
-江苏卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8$订阅源
-江苏卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225702/2/index.m3u8$LR•IPV6『线路1』
-江苏卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225488/index.m3u8?fmt=ts2hls$LR•IPV4『线路293』
+江苏卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225488/2/index.m3u8$LR•IPV6『线路2』
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8$LR•IPV4『线路236』
 江西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010060$本地源
 江西卫视,http://z.b.bkpcp.top/m.php?id=jxws$本地源
 江西卫视,http://goo.bkpcp.top/mg/jxws$本地源
@@ -2601,11 +2553,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 江西卫视,https://cc06.tv12.xyz/62.m3u8$订阅源
 江西卫视,https://zby.130519.xyz/PLTV/11/224/3221225740/index.m3u8$LR•IPV4『线路96』
 江西卫视,https://migu.188766.xyz/?migutoken=f45c4555dcedb772397b8bd053869ce4&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy$LR•IPV4『线路97』
-江西卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8$订阅源
-江西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8$订阅源
-江西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1965546073_-1364170119/ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8?icpid=3&RTS=1669700566&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3$LR•IPV6『线路15』
-江西卫视,http://lu.wqwqwq.sbs/itv/1000000005000265032.m3u8?cdn=ystenlive$LR•IPV4『线路141』
-江西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls$LR•IPV4『线路251』
 辽宁卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226546$本地源
 辽宁卫视,http://z.b.bkpcp.top/m.php?id=lnws$本地源
 辽宁卫视,http://j.x.bkpcp.top/jx/LIAONHD$本地源
@@ -2673,10 +2620,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 辽宁卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001035/index.m3u8?love=freedom$LR•277•IPV6『线路243』
 辽宁卫视,https://cc06.tv12.xyz/70.m3u8$订阅源
 辽宁卫视,https://migu.188766.xyz/?migutoken=ef2f73363482bbffc93c1b693944303d&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy$LR•12•IPV4『线路12』
-辽宁卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001035/index.m3u8?love=freedom#http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw513997223_-264209037/ott.mobaibox.com/PLTV/3/224/3221227380/index.m3u8?icpid=3&RTS=1674380629&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw3102310989_-1844874138/ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8?icpid=3&RTS=1668597896&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3#https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000$LR•IPV6『线路8』
-辽宁卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw3102310989_-1844874138/ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8?icpid=3&RTS=1668597896&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3$LR•IPV6『线路9』
-辽宁卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw2373915483_-1232008054/ott.mobaibox.com/PLTV/3/224/3221227410/index.m3u8?icpid=3&RTS=1674386784&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3$LR•IPV6『线路16』
-辽宁卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225601/index.m3u8?fmt=ts2hls$LR•IPV4『线路259』
 内蒙古卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225634$本地源
 内蒙古卫视,http://z.b.bkpcp.top/m.php?id=nmws$本地源
 内蒙古卫视,http://j.x.bkpcp.top/jx/NMGWS$本地源
@@ -2737,6 +2680,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 宁夏卫视,https://migu.188766.xyz/?migutoken=1d9569f0a599002aefe10992c97b086a&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy$LR•13•IPV4『线路11』
 宁夏卫视,https://migu.188766.xyz/?migutoken=5826a39230af6d15838be437fdcb48e2&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy$LR•14•IPV4『线路12』
 宁夏卫视,https://migu.188766.xyz/?migutoken=858676426e1f55d3eac804344d130063&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy$LR•IPV4『线路64』
+宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8$LR•IPV4『线路112』
 青海卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010111$本地源
 青海卫视,http://z.b.bkpcp.top/m.php?id=qhws$本地源
 青海卫视,http://j.x.bkpcp.top/jx/QHWS$本地源
@@ -2777,8 +2721,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 青海卫视,https://migu.188766.xyz/?migutoken=2a99e08c6f9d7c71d0f44bc80c7db170&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy$LR•14•IPV4『线路13』
 青海卫视,https://migu.188766.xyz/?migutoken=3f20379829f1e1fad50873a632595e84&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy$LR•IPV4『线路77』
 青海卫视,https://migu.188766.xyz/?migutoken=c18ea41b280bbdf6cb1d21886eb44167&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy$LR•IPV4『线路77』
-青海卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8?icpid=3&RTS=1668600311&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3$LR•IPV6『线路3』
-青海卫视,http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive$LR•IPV4『线路122』
+青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8$LR•IPV4『线路164』
 山西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010114$本地源
 山西卫视,http://j.x.bkpcp.top/jx/SXWS$本地源
 山西卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226531/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EokFa56wMKUpB1vaIjEe92A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPoj5DNJHruOghC7vAQxinJ%2CEND$本地源
@@ -2852,8 +2795,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 四川卫视,https://migu.188766.xyz/?migutoken=9d233ccf1384884ccd2734d12aa44b51&id=scws&type=sz$LR•29•IPV4『线路2』
 四川卫视,https://cc06.tv12.xyz/99.m3u8$订阅源
 四川卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226924/1.m3u8$LR•27•IPV6『线路26』
-四川卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8$订阅源
-四川卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2502717081_11504314/ott.mobaibox.com/PLTV/3/224/3221227556/index.m3u8?icpid=3&RTS=1669701103&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3$LR•IPV6『线路10』
 深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068$本地源
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8$本地源
 深圳卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EFvxuZ6Kfg6J67sArVd0LuA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO9YxM-C8gPFvQRk47-h2ok%2CEND$本地源
@@ -2910,10 +2851,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 深圳卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226495/1.m3u8$LR•27•IPV6『线路26』
 深圳卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226573/1.m3u8$LR•27•IPV6『线路27』
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-3.m3u8$LR•22•IPV4『线路19』
-深圳卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3025923625_628894334/ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8?icpid=3&RTS=1668597820&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3$LR•IPV6『线路10』
-深圳卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw2172973032_-185211384/ott.mobaibox.com/PLTV/3/224/3221227442/index.m3u8?icpid=3&RTS=1674386583&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3$LR•IPV6『线路19』
-深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8$LR•IPV4『线路176』
-深圳卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225598/index.m3u8?fmt=ts2hls$LR•IPV4『线路226』
 三沙卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb2dn60YQRxhB5rAyOnrv0g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND$本地源
 三沙卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8$本地源
 三沙卫视,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8$本地源
@@ -2938,7 +2875,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 三沙卫视,https://migu.188766.xyz/?migutoken=7b99217ca65766ba49605ed3dd7561cb&id=hn_ssws&type=sz$LR•9•IPV4『线路9』
 三沙卫视,https://migu.188766.xyz/?migutoken=2959c1b8c956552068c4df809ecdd241&id=hn_ssws&type=sz$LR•IPV4『线路21』
 三沙卫视,https://migu.188766.xyz/?migutoken=83983311aaee13c2f0bf7cf73ea4680c&id=hn_ssws&type=sz$LR•11•IPV4『线路11』
-三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS$LR•IPV6『线路1』
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459$本地源
 天津卫视,http://j.x.bkpcp.top/jx/TIANJHD$本地源
 天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8$本地源
@@ -3008,9 +2944,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 天津卫视,http://yc.myds.me:35455/itv/5000000004000006827.m3u8?cdn=bestzb$LR•IPV4『线路116』
 天津卫视,http://[2409:8087:74f0:22::6]:6410/270000001128/9900000530/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000530$LR•281•IPV6『线路231』
 天津卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8$LR•281•IPV6『线路232』
-天津卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw2730715388_788631706/ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8?icpid=3&RTS=1668597525&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3$LR•IPV6『线路11』
-天津卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000249/index.m3u8?key=tvbox6_com$LR•IPV6『线路44』
-天津卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225485/index.m3u8?fmt=ts2hls$LR•IPV4『线路266』
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8$LR•IPV4『线路206』
 西藏卫视,http://z.b.bkpcp.top/m.php?id=xzws$本地源
 西藏卫视,http://goo.bkpcp.top/mg/xzws$本地源
 西藏卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EmHuqUIe0F51C4h6xZanhig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMi3qn27U9rBeXpVrJ8eLy7%2CEND$本地源
@@ -3092,6 +3026,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 西藏卫视,https://cc06.tv12.xyz/112.m3u8$订阅源
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=596c3d6dd7848eac9a5eb5e1189aa9f3&time=693b4059$订阅源
 西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-1.m3u8$LR•14•IPV4『线路13』
+西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8$LR•IPV4『线路75』
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635$本地源
 新疆卫视,http://z.b.bkpcp.top/m.php?id=xjws$本地源
 新疆卫视,http://j.x.bkpcp.top/jx/XJWS$本地源
@@ -3122,6 +3057,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 新疆卫视,https://mursor.ottiptv.cc/gptv/G_XINJIANG.m3u8$LR•IPV4『线路9』
 新疆卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227193/index.m3u8$LR•173•IPV4『线路14』
 新疆卫视,https://cc06.tv12.xyz/109.m3u8$订阅源
+新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8$LR•IPV4『线路97』
 云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444$本地源
 云南卫视,http://z.b.bkpcp.top/m.php?id=ynws$本地源
 云南卫视,http://goo.bkpcp.top/mg/ynws$本地源
@@ -3159,7 +3095,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 云南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?love=freedom$LR•205•IPV6『线路185』
 云南卫视,https://cc06.tv12.xyz/114.m3u8$订阅源
 云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8$LR•IPV4『线路72』
-云南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?love=freedom#https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000$LR•IPV6『线路4』
 
 直播中国,#genre#
 丹霞山丹梯铁锁,http://gcksc.v.kcdnvip.com/gc/dxsdtts_1/index.m3u8$本地源
@@ -3416,10 +3351,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 广东卫视,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8$LR•IPV4『线路112』
 广东卫视,https://migu.188766.xyz/?migutoken=e340defa6957148b4969a0f803fb146d&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy$LR•IPV4『线路114』
 广东卫视,https://migu.188766.xyz/?migutoken=721862d0d911f1d567653131947acfb3&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy$LR•26•IPV4『线路23』
-广东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$订阅源
-广东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225701/2/index.m3u8$LR•IPV6『线路1』
-广东卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000341/index.m3u8?key=tvbox6_com$LR•IPV6『线路43』
-广东卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225597/index.m3u8?fmt=ts2hls$LR•IPV4『线路288』
+广东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225742/2/index.m3u8$LR•IPV6『线路2』
 广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms$本地源
 广东民生,https://hk.188766.xyz/?migutoken=08f126f29a9e9334c492a23a0f40038f&id=gd_gdms&type=sz$LR•IPV4『线路6』
 大湾区卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010108$本地源
@@ -3511,10 +3443,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 深圳卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226495/1.m3u8$LR•27•IPV6『线路26』
 深圳卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226573/1.m3u8$LR•27•IPV6『线路27』
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-3.m3u8$LR•22•IPV4『线路19』
-深圳卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3025923625_628894334/ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8?icpid=3&RTS=1668597820&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3$LR•IPV6『线路10』
-深圳卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw2172973032_-185211384/ott.mobaibox.com/PLTV/3/224/3221227442/index.m3u8?icpid=3&RTS=1674386583&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3$LR•IPV6『线路19』
-深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8$LR•IPV4『线路176』
-深圳卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225598/index.m3u8?fmt=ts2hls$LR•IPV4『线路226』
 
 山东频道,#genre#
 山东新闻,http://ls.qingting.fm/live/60180.m3u8$本地源
@@ -3527,7 +3455,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 山东教育,http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=202510240801014993ead85bb84238ba256233f39ec1fe&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20251024080101&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=106.13.250.88&SecurityKey=20251024080101&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9a9b9f0fe534bfd0201d1b9425c62be5&ddCalcu=59eaeb922b9690cf502f4e95b314db1f0d20$订阅源
 山东教育,http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=202510250801048fff0e4b106b4345af1deefefd8d0de7&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20251025080104&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=106.13.250.90&SecurityKey=20251025080104&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=5ed99a35aabe1c5a975b3c9f32ac70d9&ddCalcu=95dee0d2799c90aa2335fa9acb3eb15c759a$订阅源
 山东教育,http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=202510260801019bd2e5ad2269402db1f8eed1067a0adc&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20251026080101&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=106.13.250.83&SecurityKey=20251026080101&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e3cb945f8f4a023db7f9184295501750&ddCalcu=0e53e7c21b909054559f284f841a90f273bd$订阅源
-山东教育,http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=20250927080126244a72fa1b554182ae03568fff35bca7&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20250927080126&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=106.13.250.83&SecurityKey=20250927080126&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=41ee1554c91427e91ee78ce8b64f7a33&ddCalcu=3431eae27e9f104565b48ce9c18472e7ee19$订阅源
 山东农科,http://livealone302.iqilu.com/iqilu/nkpd.m3u8$本地源
 山东齐鲁,http://livealone302.iqilu.com/iqilu/qlpd.m3u8$本地源
 山东生活,http://ls.qingting.fm/live/60260.m3u8$本地源
@@ -3549,7 +3476,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 浙江经济生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8$本地源
 浙江经济生活,http://ls.qingting.fm/live/1099.m3u8$本地源
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng.m3u8$LR•8•IPV4『线路8』
-浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-1.m3u8$LR•8•IPV4『线路6』
+浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-3.m3u8$LR•8•IPV4『线路7』
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-1.m3u8$LR•14•IPV4『线路14』
 杭州综合,http://goo.bkpcp.top/mg/hzzh$本地源
 杭州明珠,http://goo.bkpcp.top/mg/hzmz$本地源
@@ -3676,11 +3603,15 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 上海新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=20251025080100b35a6c3882a949ae802da68a5f06fef8&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20251025080100&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.90&SecurityKey=20251025080100&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6f8be77ecb1155de0e5d3baaed9f8e01&ddCalcu=160fee828b1fe097d7eeacabb131d555ed0e$订阅源
 上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8$订阅源
 上海新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=202510260800571a80ecc296e048748f25ce64f259efe6&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20251026080057&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.83&SecurityKey=20251026080057&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9434bf593d72839a9157b57bc07f3a86&ddCalcu=6984ea32341fb07f05c9b37d57b27853199a$订阅源
+上海新闻综合,https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=348c9164063c2b1df215dd2fa7cd92cb119d8a335ae0edfb5d615a6c714e71b669eee2f5ff1730afa92af7ca41d0aa96e3a280d7e5f2069eb8a3b852f3ebc270147489d7c8bfb08a7c4b9c4d80$订阅源
+上海新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=20250919080134d0a4f61e680b4d1b8d2460b858ff1fec&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20250919080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.88&SecurityKey=20250919080134&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c6e37e6787e81aeb250c874ff8533137&ddCalcu=7c36e1e13313705e86f7f8477e88c10a5e2b$订阅源
 上海第一财经,https://mursor.ottiptv.cc/migu/608780988.m3u8$订阅源
 上海第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8$订阅源
 上海第一财经,https://mgtv.ottiptv.cc/migu/608780988.m3u8?migutoken=0c7df30d952e5d120406d3eb259cd5e26ec6aa86037008719de147cc6fbc34e877c3e3d7b9617267f35521bdddc4c5995e6fc0583816a5df1bfe19814868525e736733676761a4b2d4db618e84$订阅源
 上海第一财经,http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8$订阅源
 上海第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8$订阅源
+上海第一财经,http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2025091908013429b62173a5e24f8ea1f310d5ed32e792&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20250919080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=106.13.250.88&SecurityKey=20250919080134&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6c828d22c926cc843970f3f1c7455bea&ddCalcu=a6eceb815285804d72c21cf932f60c7c9834$订阅源
+上海第一财经,https://mgtv.ottiptv.cc/migu/608780988.m3u8$订阅源
 上海纪实,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010067$本地源
 上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8$本地源
 上海纪实,http://z.b.bkpcp.top/m.php?id=shjs$本地源
@@ -3743,6 +3674,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 欢笑剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225771/1.m3u8$LR•13•IPV6『线路13』
 欢笑剧场,https://shyd.695847.xyz/cms001/ch00000090990000001490/index.m3u8$订阅源
 欢笑剧场,https://shyd.695847.xyz/cms001/ch00000090990000001193/index.m3u8$订阅源
+欢笑剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225771/index.m3u8$LR•10•IPV6『线路10』
 法治天地,http://php.jdshipin.com/itv6.php?cid=bestzb&id=9001547084732463424$本地源
 法治天地,http://z.b.bkpcp.top/m.php?id=fztd$本地源
 法治天地,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281$订阅源
@@ -3752,7 +3684,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 法治天地,http://[2409:8087:5e08:25::4]:6610/000000001000/9001547084732463424/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&Ace$LR•11•IPV6『线路11』
 法治天地,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225994/1.m3u8$LR•12•IPV6『线路12』
 法治天地,http://iptv.666230.xyz/iptv/hnyx.php/fztx$LR•10•IPV4『线路5』
-法治天地,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225994/index.m3u8$LR•10•IPV6『线路9』
 生活时尚,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8$本地源
 生活时尚,http://tv.scjyhd.com:4022/udp/239.93.0.106:5140$本地源
 生活时尚,http://wouu.net:9977/udp/239.93.0.106:5140$本地源
@@ -3777,6 +3708,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 都市剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226155/index.m3u8$LR•13•IPV6『线路13』
 都市剧场,https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8$LR•10•IPV4『线路2』
 都市剧场,https://zby.130519.xyz/PLTV/11/224/3221226155/index.m3u8$LR•10•IPV4『线路3』
+都市剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8$LR•10•IPV6『线路9』
 
 重庆频道,#genre#
 
@@ -3804,6 +3736,8 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 南京十八,https://mgtv.ottiptv.cc/mg/838151753.m3u8$订阅源
 南京十八,http://gslbmgsplive.miguvideo.com/migu/kailu/nanjingsb/50/20230719/index.m3u8$订阅源
 南京十八,http://gslbmgsplive.miguvideo.com/migu/kailu/nanjingsb/50/20230719/index.m3u8?msisdn=2025102308014162d44288f10c4a84b8b27a5f80ee99fd&mdspid=&spid=699067&netType=0&sid=5910021864&pid=2028597139&timestamp=20251023080141&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838151753&ParentNodeID=-99&assertID=5910021864&client_ip=106.13.250.83&SecurityKey=20251023080141&promotionId=&mvid=5900006207&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=5a6e4ed4765e04fdb8e8bd37c3607a6c&ddCalcu=c56aea627e80406e3dc47736d5be80e48fbd$订阅源
+南京十八,http://gslbmgsplive.miguvideo.com/migu/kailu/nanjingsb/50/20230719/index.m3u8?msisdn=202509190801349730ff2fd0254ae4ad096d68d3fc7f35&mdspid=&spid=699067&netType=0&sid=5910021864&pid=2028597139&timestamp=20250919080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838151753&ParentNodeID=-99&assertID=5910021864&client_ip=106.13.250.88&SecurityKey=20250919080134&promotionId=&mvid=5900006207&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b0d57eedc76b6ea1b6b460ea0a8ac2d3&ddCalcu=3bd0e2d1c58a708eae0dace7066b46be6ab1$订阅源
+南京十八,https://mgtv.ottiptv.cc/migu/838151753.m3u8$订阅源
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8$订阅源
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8?zjiangsd$订阅源
 南京少儿,https://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8$订阅源
@@ -3818,6 +3752,8 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 南京教科,http://gslbmgsplive.miguvideo.com/migu/kailu/nanjingkj/50/20230719/index.m3u8$订阅源
 南京教科,http://gslbmgsplive.miguvideo.com/migu/kailu/nanjingkj/50/20230719/index.m3u8?msisdn=20251023080141d50925a1117343ecb53b23bb6266f888&mdspid=&spid=699067&netType=0&sid=5910021865&pid=2028597139&timestamp=20251023080141&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838153729&ParentNodeID=-99&assertID=5910021865&client_ip=106.13.250.83&SecurityKey=20251023080141&promotionId=&mvid=5900006205&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b2b216d53c7175e66065d308271343c9&ddCalcu=9bc2e3b2428310167d25830c37d157650e66$订阅源
 南京教科,http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8$订阅源
+南京教科,https://mgtv.ottiptv.cc/migu/838153729.m3u8?migutoken=0427a8c0867765b66984ce8ef774d494eeb52a2d6a7eefe17c4b03fa30923700917323b8951caa30617f3eecc1db2844cdff2f7470556533fbc072ad7a7cb0c6284344cc57983294a2b26f4303$订阅源
+南京教科,http://gslbmgsplive.miguvideo.com/migu/kailu/nanjingkj/50/20230719/index.m3u8?msisdn=2025091908013422d2a0f4ed5e4511b896d3d3645248f2&mdspid=&spid=699067&netType=0&sid=5910021865&pid=2028597139&timestamp=20250919080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838153729&ParentNodeID=-99&assertID=5910021865&client_ip=106.13.250.88&SecurityKey=20250919080134&promotionId=&mvid=5900006205&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=52692ec9c72414583509ce0cd575172e&ddCalcu=e522e7611985207e5cd9cc07e2c491045538$订阅源
 南京新闻综合,http://z.b.bkpcp.top/m.php?id=njxwzh$本地源
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8$订阅源
 南京新闻综合,https://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8$订阅源
@@ -3827,6 +3763,8 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 南京新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/nanjingxwzh/50/20230719/index.m3u8$订阅源
 南京新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/nanjingxwzh/50/20230719/index.m3u8?msisdn=20251023080141b90781bc871243ca9ccefdd19990364a&mdspid=&spid=699067&netType=0&sid=5910021863&pid=2028597139&timestamp=20251023080141&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838109047&ParentNodeID=-99&assertID=5910021863&client_ip=106.13.250.83&SecurityKey=20251023080141&promotionId=&mvid=5900006203&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=147e2c56380633b791b7bb2fc8bdccc9&ddCalcu=91c4ec72ce8d20bc85c6f328b0b673b31b97$订阅源
 南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8$订阅源
+南京新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/nanjingxwzh/50/20230719/index.m3u8?msisdn=202509190801346040f34e796a43e3821e1db9273c556a&mdspid=&spid=699067&netType=0&sid=5910021863&pid=2028597139&timestamp=20250919080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=838109047&ParentNodeID=-99&assertID=5910021863&client_ip=106.13.250.88&SecurityKey=20250919080134&promotionId=&mvid=5900006203&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=de89fe41d47757280f2c68af5d15033a&ddCalcu=ad3ee3810985f01ed451fda48767c527f208$订阅源
+南京新闻综合,https://mgtv.ottiptv.cc/migu/838109047.m3u8$订阅源
 南通新闻综合,https://mursor.ottiptv.cc/migu/955227985.m3u8$订阅源
 南通新闻综合,https://mgtv.ottiptv.cc/mg/955227985.m3u8$订阅源
 南通新闻综合,https://mgtv.ottiptv.cc/migu/955227985.m3u8$订阅源
@@ -3834,6 +3772,8 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 南通新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/ntxwzh/51/20250604/index.m3u8?msisdn=202510230801432bba200bfb354535b9886f031208cce3&mdspid=&spid=699067&netType=0&sid=5910022178&pid=2028597139&timestamp=20251023080143&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=955227985&ParentNodeID=-99&assertID=5910022178&client_ip=106.13.250.83&SecurityKey=20251023080143&promotionId=&mvid=5900006706&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=2e507c0ae7d1d63de0a405794c6b1217&ddCalcu=721ee252105b706cc04a9e775d014da603ed$订阅源
 南通新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/ntxwzh/51/20250604/index.m3u8?msisdn=202510240800592b66efbec2f342349068cf9b89987f0e&mdspid=&spid=699067&netType=0&sid=5910022178&pid=2028597139&timestamp=20251024080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=955227985&ParentNodeID=-99&assertID=5910022178&client_ip=106.13.250.88&SecurityKey=20251024080059&promotionId=&mvid=5900006706&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c30e235addfb289fd6b4a087caa89b23&ddCalcu=3c23eb029e5820a3a5ca7d8d0fab42b869df$订阅源
 南通新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/ntxwzh/51/20250604/index.m3u8?msisdn=20251025080102df5bfd8079f1495a93b5db8970ebcd80&mdspid=&spid=699067&netType=0&sid=5910022178&pid=2028597139&timestamp=20251025080102&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=955227985&ParentNodeID=-99&assertID=5910022178&client_ip=106.13.250.90&SecurityKey=20251025080102&promotionId=&mvid=5900006706&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=bce85213974cffcdcc52779b9d090656&ddCalcu=6b5ce6e208595002d193b997747c2f5fcccd$订阅源
+南通新闻综合,https://mgtv.ottiptv.cc/migu/955227985.m3u8?migutoken=03e9c85f19b5ac291f5863436507873a8f47ec3c677c7857c89bda5778edc8e38fc38b4270aa374c49eee39b39ffaf80a20b750130c27760df766c0cf7b5d437be8dc60c1ced9117d98f6c9b3e$订阅源
+南通新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/ntxwzh/51/20250604/index.m3u8?msisdn=202509190801352ef9ff3bad3f4a65b064683f87e439c3&mdspid=&spid=699067&netType=0&sid=5910022178&pid=2028597139&timestamp=20250919080135&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=955227985&ParentNodeID=-99&assertID=5910022178&client_ip=106.13.250.88&SecurityKey=20250919080135&promotionId=&mvid=5900006706&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=98aea868da861defcb53a7c9f1ba5a81&ddCalcu=1988eaa15e5aa0b816f89dca78a6315dbecf$订阅源
 大丰公共,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8?zjiangsd$订阅源
 徐州新聞綜合,http://z.b.bkpcp.top/m.php?id=xzxwzh$本地源
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8$订阅源
@@ -3863,8 +3803,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 江苏城市,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=202510240800588fc3b82544a14452832128fa5d5a06e0&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20251024080058&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=106.13.250.88&SecurityKey=20251024080058&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=8926243c6d96bc2b45ee86fbcb2451f1&ddCalcu=18f9e12256642024b3ccb6fd6986ebec524b$订阅源
 江苏城市,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=20251025080101ab69bd3b555244cebecc8604efb5a5a2&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20251025080101&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=106.13.250.90&SecurityKey=20251025080101&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=683e0ed68a2d415532c228c24c8c2767&ddCalcu=7668e7322e6c008ecd4628ca822d24c12535$订阅源
 江苏城市,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=202510260800570341656ce9a34a0299391875145072ee&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20251026080057&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=106.13.250.83&SecurityKey=20251026080057&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9dcd3c19797e0c00a88aca0c9a5b4642&ddCalcu=294de6c24d6b305ca199c709a7cea08c80a0$订阅源
-江苏城市,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=202509030900312c5ad926e30449e5b9405f27a3fde9a6&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20250903090031&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=106.13.250.83&SecurityKey=20250903090031&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3712225a575d903704881b6443f50a06&ddCalcu=6307va1a02x52af2354a4567b51d89804307&sv=10004&ct=android$订阅源
-江苏城市,https://mgtv.ottiptv.cc/migu/626064714.m3u8$订阅源
 江苏影视,http://z.b.bkpcp.top/m.php?id=jsys$本地源
 江苏影视,http://goo.bkpcp.top/mg/jsys$订阅源
 江苏影视,https://migu.188766.xyz/$订阅源
@@ -3873,8 +3811,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 江苏影视,https://mgtv.ottiptv.cc/mg/626064697.m3u8$订阅源
 江苏影视,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsyingshi/600/index.m3u8?msisdn=20251023080142772bf60e882f42cebdb0f8be760fd6b7&mdspid=&spid=699067&netType=0&sid=5500260517&pid=2028597139&timestamp=20251023080142&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064697&ParentNodeID=-99&assertID=5500260517&client_ip=106.13.250.83&SecurityKey=20251023080142&promotionId=&mvid=5100186424&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=08704ae8cfefd451664dee9c23c79ed1&ddCalcu=10d8ee72906740ca3e28cc9feeefdd446561$订阅源
 江苏影视,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsyingshi/600/index.m3u8?msisdn=202510240800581f7cec0b4b0d4f85a55224d468cbc56d&mdspid=&spid=699067&netType=0&sid=5500260517&pid=2028597139&timestamp=20251024080058&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064697&ParentNodeID=-99&assertID=5500260517&client_ip=106.13.250.88&SecurityKey=20251024080058&promotionId=&mvid=5100186424&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=8a89abe289ca2d05b7f942cd6dbe231d&ddCalcu=d81ae382296ea0bbde62d8c92c4a92fd70b5$订阅源
-江苏影视,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsyingshi/600/index.m3u8?msisdn=2025090309003105f41cc73cf04c92833c2265c0140111&mdspid=&spid=699067&netType=0&sid=5500260517&pid=2028597139&timestamp=20250903090031&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=626064697&ParentNodeID=-99&assertID=5500260517&client_ip=106.13.250.83&SecurityKey=20250903090031&promotionId=&mvid=5100186424&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6814112e9248d0d7b2bc482bd82b9897&ddCalcu=7698v81a94wb1a2182deb9228448cdb02db7&sv=10004&ct=android$订阅源
-江苏影视,https://mgtv.ottiptv.cc/migu/626064697.m3u8$订阅源
 江苏教育,http://z.b.bkpcp.top/m.php?id=jsjy$本地源
 江苏教育,http://goo.bkpcp.top/mg/jsjy$本地源
 江苏教育,https://migu.188766.xyz/$订阅源
@@ -3882,8 +3818,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 江苏教育,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsjiaoyu/600/index.m3u8$订阅源
 江苏教育,https://mgtv.ottiptv.cc/mg/628008321.m3u8$订阅源
 江苏教育,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsjiaoyu/600/index.m3u8?msisdn=202510230801429e18fd6e59b3463fbb4cb21323871fcd&mdspid=&spid=699067&netType=0&sid=5500287493&pid=2028597139&timestamp=20251023080142&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=628008321&ParentNodeID=-99&assertID=5500287493&client_ip=106.13.250.83&SecurityKey=20251023080142&promotionId=&mvid=5101012819&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=34594832361df23b864151102172f277&ddCalcu=7374e252f982407813220316115d1f42638b$订阅源
-江苏教育,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsjiaoyu/600/index.m3u8?msisdn=20250903090031d7e536b9e78c4a42b0841922e44a4a36&mdspid=&spid=699067&netType=0&sid=5500287493&pid=2028597139&timestamp=20250903090031&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=628008321&ParentNodeID=-99&assertID=5500287493&client_ip=106.13.250.83&SecurityKey=20250903090031&promotionId=&mvid=5101012819&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d3e3bd992ebf554d360ba9b83b9b179d&ddCalcu=dd93v7ea13bbba9db93982be9bafb505643d&sv=10004&ct=android$订阅源
-江苏教育,https://mgtv.ottiptv.cc/migu/628008321.m3u8$订阅源
 涟水电视台综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd$订阅源
 涟水电视台综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8?zjiangsd$订阅源
 淮安新闻综合,http://z.b.bkpcp.top/m.php?id=haxwzh$本地源
@@ -3893,6 +3827,8 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 淮安新闻综合,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/haxinwenzonghe/600/index.m3u8$订阅源
 淮安新闻综合,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/haxinwenzonghe/600/index.m3u8?msisdn=20251023080142941c175264e346bdb28fc24a4c0fff92&mdspid=&spid=699067&netType=0&sid=5500469363&pid=2028597139&timestamp=20251023080142&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731826&ParentNodeID=-99&assertID=5500469363&client_ip=106.13.250.83&SecurityKey=20251023080142&promotionId=&mvid=5102012618&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=228f78becdd3f1c2f4ea311cb51557e2&ddCalcu=22e2e7825f9570185bbecc1d1d33afe14cf2$订阅源
 淮安新闻综合,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/haxinwenzonghe/600/index.m3u8?msisdn=2025102408005841cc8f9eb2074fbabaeaef4617e0ca47&mdspid=&spid=699067&netType=0&sid=5500469363&pid=2028597139&timestamp=20251024080058&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731826&ParentNodeID=-99&assertID=5500469363&client_ip=106.13.250.88&SecurityKey=20251024080058&promotionId=&mvid=5102012618&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d70ba06f67ad26900d75c4f6652b7fa4&ddCalcu=4da7ef027b9ba020566f66f74acd5276d900$订阅源
+淮安新闻综合,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/haxinwenzonghe/600/index.m3u8?msisdn=2025091908013583ce7f12af754a16ba29f7c2626810f0&mdspid=&spid=699067&netType=0&sid=5500469363&pid=2028597139&timestamp=20250919080135&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731826&ParentNodeID=-99&assertID=5500469363&client_ip=106.13.250.88&SecurityKey=20250919080135&promotionId=&mvid=5102012618&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=8f83667dfa073a4952557e51d015d22c&ddCalcu=c82fe281d395601607dd1f5ae077535a2459$订阅源
+淮安新闻综合,https://mgtv.ottiptv.cc/migu/639731826.m3u8$订阅源
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8$本地源
 溧水新闻综合,https://mursor.ottiptv.cc/migu/639737327.m3u8$订阅源
 溧水新闻综合,https://mgtv.ottiptv.cc/mg/639737327.m3u8$订阅源
@@ -3901,6 +3837,8 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 溧水新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/wxxwzh/51/20250604/index.m3u8?msisdn=20251023080144558f016a4098437fa4b5f82b16dbaeb4&mdspid=&spid=699067&netType=0&sid=5500469349&pid=2028597139&timestamp=20251023080144&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639737327&ParentNodeID=-99&assertID=5500469349&client_ip=106.13.250.83&SecurityKey=20251023080144&promotionId=&mvid=5102012612&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d70adf995324060624c3825a44083d19&ddCalcu=9d17ed023a98d00f4949a553228430c64026$订阅源
 溧水新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/wxxwzh/51/20250604/index.m3u8?msisdn=202510240800594a9687dbd7324f45ae45174f1227d3ad&mdspid=&spid=699067&netType=0&sid=5500469349&pid=2028597139&timestamp=20251024080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639737327&ParentNodeID=-99&assertID=5500469349&client_ip=106.13.250.88&SecurityKey=20251024080059&promotionId=&mvid=5102012612&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=287022ec4f8292e91b2eca7dd26993d3&ddCalcu=32d8e372909920622edcd47fa8c2e922be19$订阅源
 溧水新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/wxxwzh/51/20250604/index.m3u8?msisdn=20251025080102f85a6abac0d64c679ab538b375a256e3&mdspid=&spid=699067&netType=0&sid=5500469349&pid=2028597139&timestamp=20251025080102&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639737327&ParentNodeID=-99&assertID=5500469349&client_ip=106.13.250.90&SecurityKey=20251025080102&promotionId=&mvid=5102012612&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c4c759517172dc16ebdc0de9d4416c8c&ddCalcu=cc84ecc26791504945d197e1d702cddcb1e6$订阅源
+溧水新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/wxxwzh/51/20250604/index.m3u8?msisdn=202509190801368edab7fc3daa499fa4e273d73d8b9f2d&mdspid=&spid=699067&netType=0&sid=5500469349&pid=2028597139&timestamp=20250919080136&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639737327&ParentNodeID=-99&assertID=5500469349&client_ip=106.13.250.88&SecurityKey=20250919080136&promotionId=&mvid=5102012612&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c3e71707790a9a58ff5c4df8b135c614&ddCalcu=4c13e6e1c795103710b787f9d04ac95af5f8$订阅源
+溧水新闻综合,https://mgtv.ottiptv.cc/migu/639737327.m3u8$订阅源
 苏州新闻综合,http://z.b.bkpcp.top/m.php?id=szxwzh$本地源
 连云港新闻综合,http://z.b.bkpcp.top/m.php?id=lygxwzh$本地源
 连云港新闻综合,https://migu.188766.xyz/$订阅源
@@ -3909,13 +3847,10 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 连云港新闻综合,https://mgtv.ottiptv.cc/mg/639731715.m3u8$订阅源
 连云港新闻综合,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/lygxinwenzonghe/600/index.m3u8?msisdn=2025102308014346764a53b41f40e58f68d1df3227c8be&mdspid=&spid=699067&netType=0&sid=5500469369&pid=2028597139&timestamp=20251023080143&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731715&ParentNodeID=-99&assertID=5500469369&client_ip=106.13.250.83&SecurityKey=20251023080143&promotionId=&mvid=5102012621&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=7adf3d6cc0bed6d0855e6f39909c760d&ddCalcu=d70ae6d27f9c309d069c9c30fb6eed565d80$订阅源
 连云港新闻综合,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/lygxinwenzonghe/600/index.m3u8?msisdn=202510240800585b70464e74f54a9fbef4b5d83d2330c2&mdspid=&spid=699067&netType=0&sid=5500469369&pid=2028597139&timestamp=20251024080058&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=639731715&ParentNodeID=-99&assertID=5500469369&client_ip=106.13.250.88&SecurityKey=20251024080058&promotionId=&mvid=5102012621&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6a419a1b77265f44b434d3cc2b7ad8d0&ddCalcu=06dae842d19a907ab12bc7c732d6453f44b4$订阅源
-连云港新闻综合,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/lygxinwenzonghe/600/index.m3u8?msisdn=20250903090032646047095bc64a1c968e703401c7fec1&mdspid=&spid=699067&netType=0&sid=5500469369&pid=2028597139&timestamp=20250903090032&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=639731715&ParentNodeID=-99&assertID=5500469369&client_ip=106.13.250.83&SecurityKey=20250903090032&promotionId=&mvid=5102012621&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c19beb3ac61dd99e40036c371af55211&ddCalcu=1c11v29a5bx5eafba31a7c36c16d3d09094e&sv=10004&ct=android$订阅源
-连云港新闻综合,https://mgtv.ottiptv.cc/migu/639731715.m3u8$订阅源
 镇江新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/zjxwzh/50/20251127/index.m3u8$订阅源
 镇江新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/zjxwzh/50/20251127/index.m3u8?msisdn=20251208080341313571580fa8460da91165977ac1e06f&mdspid=&spid=699067&netType=0&sid=5500469365&pid=2028597139&timestamp=20251208080341&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=639731783&ParentNodeID=-99&assertID=5500469365&client_ip=218.28.233.106&SecurityKey=20251208080341&promotionId=&mvid=5102012619&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=2c7a0ae2fd26eca75203005af08c49b5&ddCalcu=52bcv97a4axc0a8a0ef2af5d02063e0c2a57&sv=10004&ct=android$订阅源
 镇江新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/zjxwzh/50/20251127/index.m3u8?msisdn=202512090804173580256011aa4d078a2137bc1a9d5136&mdspid=&spid=699067&netType=0&sid=5500469365&pid=2028597139&timestamp=20251209080417&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=639731783&ParentNodeID=-99&assertID=5500469365&client_ip=218.28.233.106&SecurityKey=20251209080417&promotionId=&mvid=5102012619&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f6e47246808c5e75188d4c264e6ec6a4&ddCalcu=4fa6v6eac4xe7a62e4466820c84cd58e8715&sv=10004&ct=android$订阅源
 镇江新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/zjxwzh/50/20251127/index.m3u8?msisdn=20251210080338fedb59e067a84538b38a89a13b30f943&mdspid=&spid=699067&netType=0&sid=5500469365&pid=2028597139&timestamp=20251210080338&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=639731783&ParentNodeID=-99&assertID=5500469365&client_ip=218.28.233.106&SecurityKey=20251210080338&promotionId=&mvid=5102012619&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c898ea8575b0bdd86e9726753a6ba64c&ddCalcu=cc48v69aa8xbea6aa83557756b207b9ded68&sv=10004&ct=android$订阅源
-镇江新闻综合,http://gslbmgsplive.miguvideo.com/migu/kailu/zjxwzh/50/20251127/index.m3u8?msisdn=20251206080345c6b198548f7a4137bc34f4fc1877f2c2&mdspid=&spid=699067&netType=0&sid=5500469365&pid=2028597139&timestamp=20251206080345&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=639731783&ParentNodeID=-99&assertID=5500469365&client_ip=218.28.233.106&SecurityKey=20251206080345&promotionId=&mvid=5102012619&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5d35d17d8948be41fe9df1c12a69cc94&ddCalcu=459dvc3ac5x9da61a72d18c914f8db9ee4f1&sv=10004&ct=android$订阅源
 靖江新闻综合,http://ls.qingting.fm/live/23797.m3u8$本地源
 
 辽宁频道,#genre#
@@ -4036,9 +3971,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 天津卫视,http://yc.myds.me:35455/itv/5000000004000006827.m3u8?cdn=bestzb$LR•IPV4『线路116』
 天津卫视,http://[2409:8087:74f0:22::6]:6410/270000001128/9900000530/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000530$LR•281•IPV6『线路231』
 天津卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8$LR•281•IPV6『线路232』
-天津卫视,http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw2730715388_788631706/ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8?icpid=3&RTS=1668597525&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3$LR•IPV6『线路11』
-天津卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000249/index.m3u8?key=tvbox6_com$LR•IPV6『线路44』
-天津卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225485/index.m3u8?fmt=ts2hls$LR•IPV4『线路266』
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8$LR•IPV4『线路206』
 
 四川频道,#genre#
 乐山公共,http://tv.scjyhd.com:4022/udp/239.10.0.63:5140$本地源
@@ -4074,6 +4007,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8$本地源
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd$订阅源
 汶川新闻综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8$订阅源
+汶川新闻综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01$订阅源
 沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8$订阅源
 筠连综合,http://live.dameijunlian.cn/live1/live1.m3u8$订阅源
 荥经综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8$订阅源
@@ -4091,12 +4025,16 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 陕西新闻资讯,http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8$订阅源
 陕西新闻资讯,http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=202510230801447f8d4c3a1a3c4ca1bd0de217472d80f2&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20251023080144&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=106.13.250.83&SecurityKey=20251023080144&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6ed563603d847927c8983a33d5b70e32&ddCalcu=263eeed2056760b356d0333da834879982c7$订阅源
 陕西新闻资讯,http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=202510240800591ee112712ed2473aa0d84b8ea3046959&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20251024080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=106.13.250.88&SecurityKey=20251024080059&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=5661fd15cfb5726d7c6a1eb652fdb094&ddCalcu=4596e062b16df0fd21556cbfeb15a762c67d$订阅源
+陕西新闻资讯,http://gslbmgsplive.miguvideo.com/migu/kailu/sxxwzx/51/20250804/index.m3u8?msisdn=20250919080136670d8cf97d464e1f874949e449ebd1ac&mdspid=&spid=600572&netType=0&sid=5910022187&pid=2028597139&timestamp=20250919080136&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909289&ParentNodeID=-99&assertID=5910022187&client_ip=106.13.250.88&SecurityKey=20250919080136&promotionId=&mvid=5900006710&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=01b1afdabd15fc39dd9264ccca9ac59f&ddCalcu=f091e5b1c16aa09fadcacbcd41652f9cd3d9$订阅源
+陕西新闻资讯,https://mgtv.ottiptv.cc/migu/956909289.m3u8$订阅源
 陕西都市青春,https://mursor.ottiptv.cc/migu/956909358.m3u8$订阅源
 陕西都市青春,https://mgtv.ottiptv.cc/mg/956909358.m3u8$订阅源
 陕西都市青春,https://mgtv.ottiptv.cc/migu/956909358.m3u8?migutoken=c3931ea9d3d7ede24a9d13084dadcc55f7f21b114c6c584ca7defd6492ba46b7286dbd751d0f853f83e998e4b0349c62cf4bc570ac83667c4f6bd49a9411edc68e80c1d7f24da79a264d15912b$订阅源
 陕西都市青春,http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8$订阅源
 陕西都市青春,http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=202510230801444202628b64cc49f4bfb9f6b1dfb1f491&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20251023080144&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.83&SecurityKey=20251023080144&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=83284c876ebb25ecdf72f4eb4dd5a006&ddCalcu=6803e022a86540dcd847b6ee4bfb2275fedc$订阅源
 陕西都市青春,http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=2025102408005947806826798c44e4b89b7ed86b1ba04f&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20251024080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.88&SecurityKey=20251024080059&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=52c95103cb01acfba0783bb6dba5f262&ddCalcu=2562e2c2f96550a1b0d36cbbb0318a7c0fab$订阅源
+陕西都市青春,http://gslbmgsplive.miguvideo.com/migu/kailu/sxdsqc/51/20250804/index.m3u8?msisdn=20250919080136b45ee433a7cf4d688994f00b794d176d&mdspid=&spid=600572&netType=0&sid=5910022190&pid=2028597139&timestamp=20250919080136&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909358&ParentNodeID=-99&assertID=5910022190&client_ip=106.13.250.88&SecurityKey=20250919080136&promotionId=&mvid=5900006713&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9db1317be8c80566b10f130aebe87c29&ddCalcu=992decb1716830e1b7ebae083c18f00516b6$订阅源
+陕西都市青春,https://mgtv.ottiptv.cc/migu/956909358.m3u8$订阅源
 陕西公共,http://ls.qingting.fm/live/1222.m3u8$本地源
 陕西体育休闲,https://mursor.ottiptv.cc/migu/956909356.m3u8$订阅源
 陕西体育休闲,https://mgtv.ottiptv.cc/mg/956909356.m3u8$订阅源
@@ -4106,6 +4044,8 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 陕西体育休闲,http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=20251024080056953be86c14d64c758cd4dbf06a58c942&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251024080056&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.88&SecurityKey=20251024080056&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d18ceaa4887dd90437843aedd252e8e7&ddCalcu=7de1e882ec62e05a2ad4d8e8a73d4d897034$订阅源
 陕西体育休闲,http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=2025102508005957060912be0d47f78a9e823b236e0022&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251025080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.90&SecurityKey=20251025080059&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=25d98077b85839680d0db7d4d6a823de&ddCalcu=e2d5e3d2296880a067d74bd875b8d309d608$订阅源
 陕西体育休闲,http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=20251026080055dc17c2fc45334560bf47799ab86d8854&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251026080055&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.83&SecurityKey=20251026080055&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=31276552a017d448e28220c117bcf54e&ddCalcu=e341e522f76c60b575121ac001272d8424e8$订阅源
+陕西体育休闲,http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=20250921080053bb7e3ee981dc4bde95a765fbffef7b9e&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20250921080053&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.88&SecurityKey=20250921080053&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=43ffb82e5f9372a440dd84479d27b2f6&ddCalcu=64f3e2f2bf67b028d29e754f4983d7d20a44$订阅源
+陕西体育休闲,https://mgtv.ottiptv.cc/migu/956909356.m3u8$订阅源
 陕西影视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/index.m3u8$本地源
 陕西影视,http://php.jdshipin.com:8880/qly.php?id=6329$本地源
 
@@ -4132,7 +4072,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8$订阅源
 厦门卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887454.m3u8$订阅源
 厦门卫视,https://mursor.ottiptv.cc/gptv/G_XIAMEN.m3u8$LR•IPV4『线路8』
-厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6$LR•IPV6『线路2』
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8$本地源
 福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8$订阅源
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
@@ -4295,6 +4234,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 新疆卫视,https://mursor.ottiptv.cc/gptv/G_XINJIANG.m3u8$LR•IPV4『线路9』
 新疆卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227193/index.m3u8$LR•173•IPV4『线路14』
 新疆卫视,https://cc06.tv12.xyz/109.m3u8$订阅源
+新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8$LR•IPV4『线路97』
 
 山西频道,#genre#
 五台综合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd$订阅源
@@ -4316,7 +4256,9 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 
 安徽频道,#genre#
 安徽国际,https://www.ahtv.cn/folder9000/folder20193$订阅源
+安徽国际,https://www.ahtv.cn/folder9000/folder20193?channelIndex=6$订阅源
 安徽影视,https://www.ahtv.cn/folder9000/folder20193$订阅源
+安徽影视,https://www.ahtv.cn/folder9000/folder20193?channelIndex=3$订阅源
 安徽经济生活,https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1745774515&key=a93a5e1794618b8f0038e5d4206cb748$本地源
 安徽综艺体育,https://live.lalifeier.eu.org/ahtv/ahzyty.m3u8?t=1745774515&key=27009aec794adc785b22478c5aa2ae16$本地源
 铜陵新闻综合,https://ls.qingting.fm/live/21303/64k.m3u8$本地源
@@ -4375,9 +4317,11 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$LR•
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8$订阅源
 安多卫视,https://mursor.ottiptv.cc/gptv/G_ANDUO.m3u8$LR•IPV4『线路2』
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing$订阅源
+安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd$订阅源
 西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8$订阅源
 西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8$订阅源
 西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd$订阅源
+西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8$订阅源
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8$订阅源
 青海都市,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225749/index.m3u8$订阅源
 
@@ -4527,9 +4471,6 @@ CCTV-5,https://migu.188766.xyz/?migutoken=4e6513876d715dabf5547420dddaa1f2&id=CC
 CCTV-5,https://migu.188766.xyz/?migutoken=3803480da7c3ee6e07115f4bb5827c0d&id=CCTV5&type=yy$LR•22•IPV4『线路20』
 CCTV-5,https://migu.188766.xyz/?migutoken=c83b4f41efe4ebc2e7b4db08353cc545&id=CCTV5p&type=yy$LR•24•IPV4『线路21』
 CCTV-5,https://hls-gateway.vpstv.net/streams/476885.m3u8$LR•24•IPV4『线路22』
-CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
-CCTV-5,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225633/2/index.m3u8$LR•IPV6『线路1』
-CCTV-5,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMSXw4ajlL%2FoUYC2RZQQDco6uQSifXBocz5ID6RePfIKQ4rFWiHjq%2FeZoDmrzW%2FKlw$LR•IPV6『线路5』
 CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8$本地源
 CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603$订阅源
 CCTV-5+,http://[2409:8087:74f0:22::4]:6410/270000001111/1110000306/index.m3u8$订阅源
@@ -4584,7 +4525,6 @@ CCTV-5+,https://migu.188766.xyz/?migutoken=d4d4aaf489e04b016bc044974d5a8586&id=C
 CCTV-5+,https://migu.188766.xyz/?migutoken=22b257c7fa63ba5d4fac7d061b4868b9&id=CCTV5p&type=yy$LR•29•IPV4『线路1』
 CCTV-5+,https://migu.188766.xyz/?migutoken=7ee301798fa791a9b3127827daf3981e&id=CCTV5p&type=yy$LR•30•IPV4『线路2』
 CCTV-5+,https://hls-gateway.vpstv.net/streams/476888.m3u8$LR•22•IPV4『线路16』
-CCTV-5+,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225706/2/index.m3u8$LR•IPV6『线路1』
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$本地源
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8$本地源
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty$LR•IPV4『线路8』
@@ -4646,6 +4586,7 @@ CCTV-5+,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225706/
 睛彩广场舞,http://dsj.motem.top:8880/itv/3000000020000011523.m3u8$订阅源
 睛彩广场舞,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226139/index.m3u8$订阅源
 睛彩广场舞,http://missyao.com:35455/itv/3000000020000011523.m3u8$订阅源
+睛彩广场舞,http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive$订阅源
 风云足球,https://cc06.tv12.xyz/41.m3u8$订阅源
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq$本地源
 魅力足球,http://gat.bkpcp.top/ymg.php?id=mlzq$本地源
@@ -4887,7 +4828,7 @@ CCTV-15,https://migu.188766.xyz/?migutoken=06e6815c4f933aae55f00f89b84dc8dd&id=C
 CCTV-15,https://cc06.tv12.xyz/16.m3u8$LR•37•IPV4『线路4』
 CCTV-15,https://migu.188766.xyz/?migutoken=1e4c6f10125ab0b7d79deccf605dd5ed&id=CCTV15&type=yy$LR•35•IPV4『线路3』
 CCTV-15,https://migu.188766.xyz/?migutoken=a2117e4c051f9ac341e7728d2649b69b&id=CCTV15&type=yy$LR•35•IPV4『线路3』
-CCTV-15,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225641/2/index.m3u8$LR•IPV6『线路1』
+CCTV-15,http://lu.wqwqwq.sbs/itv/1000000005000265014.m3u8?cdn=ystenlive$LR•IPV4『线路215』
 音乐广播,https://tv-1.iill.top/fm/552$订阅源
 
 经典剧场,#genre#
@@ -4968,7 +4909,6 @@ CCTV16-4K,https://migu.188766.xyz/$订阅源
 CCTV16-4K,http://free.cnlive.club/channel/c15fcc8/index.m3u8$订阅源
 CCTV16-4K,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8$订阅源
 CCTV16-4K,http://lu.wqwqwq.sbs/itv/1000000006000233002.m3u8$订阅源
-CCTV16-4K,http://lu.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive$LR•IPV4『线路93』
 Classic Arts Showcase 4K,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
 北京4K超清,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$订阅源
 南国都市4K,http://alvin.ergotron.net:8000/rtp/239.253.43.99:5146$广东电信组播
@@ -5022,4 +4962,4 @@ KBS 1,https://tv.iill.top/kbs/11&p=0$订阅源
 KBS 2,https://tv.iill.top/kbs/12&p=0$订阅源
 
 🕘️更新时间,#genre#
-2026-02-04 06:28:18,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-02-06 06:26:18,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
