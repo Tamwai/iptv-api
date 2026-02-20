@@ -1379,7 +1379,7 @@ NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/
 
 直播中国,#genre#
 三亚南山文化旅游区海上观音,http://gcksc.v.kcdnvip.com/gc/syns01_1/index.m3u8
-三亚南山文化旅游区海上观音,https://gcalic.v.myalicdn.com/gc/syns01_1/index.m3u8
+CCTV-3,https://gcalic.v.myalicdn.com/gc/syns01_1/index.m3u8
 上海南浦大桥,https://gctxyc.liveplay.myqcloud.com/gc/tjhh01_1/index.m3u8
 中央电视塔东,http://gcksc.v.kcdnvip.com/gc/ztd_1/index.m3u8
 中央电视塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
