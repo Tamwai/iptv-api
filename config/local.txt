@@ -3785,3 +3785,163 @@ TaiwanPlus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-
 GB News,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
 GB News,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 NHK World-Japan,https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png" group-title="海外频道",CNN
+https://jmp2.uk/sam-GBBD8000016N.m3u8$本地源
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png" group-title="海外频道",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8$本地源
+#EXTINF:-1 tvg-name="BBC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC.png" group-title="海外频道",BBC
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8$本地源
+#EXTINF:-1 tvg-name="BBC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC.png" group-title="海外频道",BBC
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298$本地源
+#EXTINF:-1 tvg-name="BBC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC.png" group-title="海外频道",BBC
+https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8$本地源
+#EXTINF:-1 tvg-name="新加坡国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新加坡国际.png" group-title="海外频道",新加坡国际
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$本地源
+#EXTINF:-1 tvg-name="新加坡国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新加坡国际.png" group-title="海外频道",新加坡国际
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$本地源
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNA.png" group-title="海外频道",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$本地源
+#EXTINF:-1 tvg-name="CNA新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNA新闻.png" group-title="海外频道",CNA新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$本地源
+#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/半岛新闻.png" group-title="海外频道",半岛新闻
+https://tv.iill.top/litv/litv-ftv10$订阅源
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC News.png" group-title="海外频道",BBC News
+http://125.227.210.55:8165/VideoInput/play.ts$本地源
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC News.png" group-title="海外频道",BBC News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8$本地源
+#EXTINF:-1 tvg-name="TaiwanPlus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TaiwanPlus.png" group-title="海外频道",TaiwanPlus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8$本地源
+#EXTINF:-1 tvg-name="TaiwanPlus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TaiwanPlus.png" group-title="海外频道",TaiwanPlus
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8$订阅源
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ABC News.png" group-title="海外频道",ABC News
+https://c.mjh.nz/abc-news.m3u8$订阅源
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ABC News.png" group-title="海外频道",ABC News
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="GB News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/GB News.png" group-title="海外频道",GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8$本地源
+#EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NHK World-Japan.png" group-title="海外频道",NHK World-Japan
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8$订阅源
+#EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NHK World-Japan.png" group-title="海外频道",NHK World-Japan
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8$本地源
+#EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NHK World-Japan.png" group-title="海外频道",NHK World-Japan
+https://nhk.lls.pbs.org/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="Arirang 阿里郎" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Arirang 阿里郎.png" group-title="韩国",Arirang 阿里郎
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-name="Arirang 阿里郎" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Arirang 阿里郎.png" group-title="韩国",Arirang 阿里郎
+http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8$订阅源
+#EXTINF:-1 tvg-name="Arirang 阿里郎" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Arirang 阿里郎.png" group-title="韩国",Arirang 阿里郎
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8$订阅源
+#EXTINF:-1 tvg-name="BBS 불교 방송" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBS 불교 방송.png" group-title="韩国",BBS 불교 방송
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8$订阅源
+#EXTINF:-1 tvg-name="CJ OnStyle" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CJ OnStyle.png" group-title="韩国",CJ OnStyle
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-name="CJ OnStyle Plus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CJ OnStyle Plus.png" group-title="韩国",CJ OnStyle Plus
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-name="EBS 1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBS 1.png" group-title="韩国",EBS 1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd$订阅源
+#EXTINF:-1 tvg-name="EBS 2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBS 2.png" group-title="韩国",EBS 2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd$订阅源
+#EXTINF:-1 tvg-name="EBS 키즈" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBS 키즈.png" group-title="韩国",EBS 키즈
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd$订阅源
+#EXTINF:-1 tvg-name="EBS+ 1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBS+ 1.png" group-title="韩国",EBS+ 1
+http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8$订阅源
+#EXTINF:-1 tvg-name="EBS+ 2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBS+ 2.png" group-title="韩国",EBS+ 2
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8$订阅源
+#EXTINF:-1 tvg-name="GS Shop" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/GS Shop.png" group-title="韩国",GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-name="Gugak TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Gugak TV.png" group-title="韩国",Gugak TV
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-name="KBS 1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/KBS 1.png" group-title="韩国",KBS 1
+https://tv.iill.top/kbs/11&p=0$订阅源
+#EXTINF:-1 tvg-name="KBS 2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/KBS 2.png" group-title="韩国",KBS 2
+https://tv.iill.top/kbs/12&p=0$订阅源
+#EXTINF:-1 tvg-name="KBS Drama" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/KBS Drama.png" group-title="韩国",KBS Drama
+http://mytv.dothome.co.kr/ch/catv/2.php$订阅源
+#EXTINF:-1 tvg-name="KBS Joy" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/KBS Joy.png" group-title="韩国",KBS Joy
+http://mytv.dothome.co.kr/ch/catv/3.php$订阅源
+#EXTINF:-1 tvg-name="KBS Kids" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/KBS Kids.png" group-title="韩国",KBS Kids
+http://mytv.dothome.co.kr/ch/catv/6.php$订阅源
+#EXTINF:-1 tvg-name="KBS LIFE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/KBS LIFE.png" group-title="韩国",KBS LIFE
+http://mytv.dothome.co.kr/ch/catv/5.php$订阅源
+#EXTINF:-1 tvg-name="KBS LiveCam DokDo" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/KBS LiveCam DokDo.png" group-title="韩国",KBS LiveCam DokDo
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-name="KBS Story" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/KBS Story.png" group-title="韩国",KBS Story
+http://mytv.dothome.co.kr/ch/catv/4.php$订阅源
+#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/KBS World.png" group-title="韩国",KBS World
+http://mytv.dothome.co.kr/ch/catv/7.php$订阅源
+#EXTINF:-1 tvg-name="KCTV 광주" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/KCTV 광주.png" group-title="韩国",KCTV 광주
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8$订阅源
+#EXTINF:-1 tvg-name="Korea TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Korea TV.png" group-title="韩国",Korea TV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-name="MBC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MBC.png" group-title="韩国",MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-name="NBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NBS.png" group-title="韩国",NBS
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-name="SBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/SBS.png" group-title="韩国",SBS
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8$订阅源
+#EXTINF:-1 tvg-name="TBS Seoul" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TBS Seoul.png" group-title="韩国",TBS Seoul
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-name="국방国防TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/국방国防TV.png" group-title="韩国",국방国防TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8$订阅源
+
+
+海外频道,#genre#
+CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8$本地源
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8$本地源
+BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8$本地源
+BBC,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298$本地源
+BBC,https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8$本地源
+新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$本地源
+新加坡国际,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$本地源
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$本地源
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$本地源
+半岛新闻,https://tv.iill.top/litv/litv-ftv10$订阅源
+BBC News,http://125.227.210.55:8165/VideoInput/play.ts$本地源
+BBC News,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8$本地源
+TaiwanPlus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8$本地源
+TaiwanPlus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8$订阅源
+ABC News,https://c.mjh.nz/abc-news.m3u8$订阅源
+ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8$订阅源
+GB News,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8$本地源
+NHK World-Japan,https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8$订阅源
+NHK World-Japan,https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8$本地源
+NHK World-Japan,https://nhk.lls.pbs.org/index.m3u8$订阅源
+
+日本,#genre#
+
+韩国,#genre#
+Arirang 阿里郎,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8$订阅源
+Arirang 阿里郎,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8$订阅源
+Arirang 阿里郎,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8$订阅源
+BBS 불교 방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8$订阅源
+CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8$订阅源
+CJ OnStyle Plus,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8$订阅源
+EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd$订阅源
+EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd$订阅源
+EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd$订阅源
+EBS+ 1,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8$订阅源
+EBS+ 2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8$订阅源
+GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8$订阅源
+Gugak TV,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8$订阅源
+KBS 1,https://tv.iill.top/kbs/11&p=0$订阅源
+KBS 2,https://tv.iill.top/kbs/12&p=0$订阅源
+KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php$订阅源
+KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php$订阅源
+KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php$订阅源
+KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php$订阅源
+KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8$订阅源
+KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php$订阅源
+KBS World,http://mytv.dothome.co.kr/ch/catv/7.php$订阅源
+KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8$订阅源
+Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8$订阅源
+MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8$订阅源
+NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8$订阅源
+SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8$订阅源
+TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8$订阅源
+국방国防TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8$订阅源
